@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on MSIG XXI - My New Hugo Site</title>
+    <link>https://datorres1234.github.io/my_repo/posts/</link>
+    <description>Recent content in Posts on MSIG XXI - My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 May 2020 22:21:48 -0500</lastBuildDate>
+    
+	<atom:link href="https://datorres1234.github.io/my_repo/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post- Danny Torres</title>
+      <link>https://datorres1234.github.io/my_repo/posts/my-first-post/</link>
+      <pubDate>Mon, 11 May 2020 22:21:48 -0500</pubDate>
+      
+      <guid>https://datorres1234.github.io/my_repo/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
