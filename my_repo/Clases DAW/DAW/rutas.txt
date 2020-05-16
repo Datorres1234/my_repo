@@ -1,0 +1,2 @@
+{"Terminal":[{"nombre":"Terminal Terrestre de Guayaquil",
+	 "Cooperativa":[{}]}]}

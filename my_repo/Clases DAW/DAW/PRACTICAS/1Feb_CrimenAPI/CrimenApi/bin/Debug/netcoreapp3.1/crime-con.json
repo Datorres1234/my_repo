@@ -1,0 +1,4493 @@
+[
+  {
+    "fecha": "2/1/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "1/1/2014",
+    "horaev": "16:00",
+    "zona": "LOMAS DE LA FLORIDA",
+    "latitude": -2.1353837,
+    "longitude": -79.9622317
+  },
+  {
+    "fecha": "2/1/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "29/12/2013",
+    "horaev": "18:00",
+    "zona": "SOPENA",
+    "latitude": -2.2449727,
+    "longitude": -79.8996789
+  },
+  {
+    "fecha": "3/1/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "2/1/2014",
+    "horaev": "23:00",
+    "zona": "AV. LAS EXCLUSAS Y DOMINGO COMIN",
+    "latitude": -2.2504114,
+    "longitude": -79.8901239
+  },
+  {
+    "fecha": "10/1/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "5/12/2013",
+    "horaev": "0:55",
+    "zona": "CENTRO DE PRIVACION DE LIBERTAD ZONAL 8",
+    "latitude": -2.0474802,
+    "longitude": -79.945152
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "13/1/2014",
+    "horaev": "12:50",
+    "zona": "CALLE RUMICHACA",
+    "latitude": -2.1959751,
+    "longitude": -79.8868629
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "13/1/2014",
+    "horaev": "11:11",
+    "zona": "FLORESTA 1",
+    "latitude": -2.2509126,
+    "longitude": -79.8859128
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "12/1/2014",
+    "horaev": "3:00",
+    "zona": "AV. BARCELONA",
+    "latitude": -2.1886061,
+    "longitude": -79.915704
+  },
+  {
+    "fecha": "20/1/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "8/1/2014",
+    "horaev": "23:00",
+    "zona": "HOSPITAL UNIVERSITARIO",
+    "latitude": -2.0980816,
+    "longitude": -79.9464399
+  },
+  {
+    "fecha": "23/1/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "22/1/2014",
+    "horaev": "19:30",
+    "zona": "CALLE 19 Y FRANCISCO SEGURA",
+    "latitude": -2.1910713,
+    "longitude": -79.9067925
+  },
+  {
+    "fecha": "23/1/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "3/1/2014",
+    "horaev": "8:30",
+    "zona": "VIA PERIMETRAL MZ 165",
+    "latitude": -2.1364743,
+    "longitude": -79.9479389
+  },
+  {
+    "fecha": "23/1/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "25/12/2013",
+    "horaev": "10:00",
+    "zona": "MONTE SINAI",
+    "latitude": -2.1632385,
+    "longitude": -79.9224842
+  },
+  {
+    "fecha": "23/1/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "13/1/2014",
+    "horaev": "1:00",
+    "zona": "CDLA FLORESTA 1",
+    "latitude": -2.2817452,
+    "longitude": -79.8812996
+  },
+  {
+    "fecha": "23/1/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "31/12/2013",
+    "horaev": "10:25",
+    "zona": "HOSPITAL GUAYAQUIL",
+    "latitude": -2.2121461,
+    "longitude": -79.9303921
+  },
+  {
+    "fecha": "23/1/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "25/12/2012",
+    "horaev": "9:00",
+    "zona": "HOSPITAL UNIVERSITARIO",
+    "latitude": -2.0980816,
+    "longitude": -79.9464399
+  },
+  {
+    "fecha": "4/2/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "25/1/2014",
+    "horaev": "7:30",
+    "zona": "LIZARDO GARCIA Y EL ORO",
+    "latitude": -2.2094243,
+    "longitude": -79.9039528
+  },
+  {
+    "fecha": "4/2/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "2/2/2014",
+    "horaev": "6:40",
+    "zona": "ISLA TRINITARIA",
+    "latitude": -2.2402791,
+    "longitude": -79.9220686
+  },
+  {
+    "fecha": "6/2/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "21/12/2013",
+    "horaev": "21:00",
+    "zona": "MARTHA DE ROLDOS",
+    "latitude": -2.2758147,
+    "longitude": -79.887782
+  },
+  {
+    "fecha": "13/2/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "31/1/2014",
+    "horaev": "21:00",
+    "zona": "CALLE 25 Y CALLE R",
+    "latitude": -2.087498,
+    "longitude": -79.9254026
+  },
+  {
+    "fecha": "26/2/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "24/2/2014",
+    "horaev": "22:00",
+    "zona": "MAPASINGUE ESTE",
+    "latitude": -2.1503892,
+    "longitude": -79.923151
+  },
+  {
+    "fecha": "5/3/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "3/3/2014",
+    "horaev": "21:00",
+    "zona": "SAUCES IV",
+    "latitude": -2.1238159,
+    "longitude": -79.8858022
+  },
+  {
+    "fecha": "7/3/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "16/2/2014",
+    "horaev": "3:20",
+    "zona": "CRISTO DEL CONSUELO",
+    "latitude": -2.2162051,
+    "longitude": -79.902128
+  },
+  {
+    "fecha": "10/3/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "4/3/2014",
+    "horaev": "5:30",
+    "zona": "VIA PERIMETRAL. BASTION POPULAR",
+    "latitude": -2.0791677,
+    "longitude": -79.9294575
+  },
+  {
+    "fecha": "11/3/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "9/3/2014",
+    "horaev": "16:30",
+    "zona": "SANTIAGUITO ROLDOS",
+    "latitude": -2.2497491,
+    "longitude": -79.9114039
+  },
+  {
+    "fecha": "19/3/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "18/3/2014",
+    "horaev": "20:00",
+    "zona": "MARTHA DE ROLDOS",
+    "latitude": -2.2758147,
+    "longitude": -79.887782
+  },
+  {
+    "fecha": "26/3/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "1/1/2009",
+    "horaev": "22:00",
+    "zona": "CALLES 24AVA Y CALLEJON U",
+    "latitude": -2.1031313,
+    "longitude": -79.9484276
+  },
+  {
+    "fecha": "7/4/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "6/4/2014",
+    "horaev": "22:00",
+    "zona": "AV. PERIMETRAL",
+    "latitude": -2.1516293,
+    "longitude": -79.9464615
+  },
+  {
+    "fecha": "8/4/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "9/3/2014",
+    "horaev": "0:00",
+    "zona": "CDLA. LAS GARZAS",
+    "latitude": -2.1680846,
+    "longitude": -79.8986024
+  },
+  {
+    "fecha": "10/4/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "17/2/2014",
+    "horaev": "6:00",
+    "zona": "PARQUE CENTENARIO. EDIFICIO FORUM",
+    "latitude": -2.1898193,
+    "longitude": -79.8877164
+  },
+  {
+    "fecha": "11/4/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "10/4/2014",
+    "horaev": "18:30",
+    "zona": "EL CONDOR",
+    "latitude": -2.1288112,
+    "longitude": -79.9108744
+  },
+  {
+    "fecha": "16/4/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "12/4/2014",
+    "horaev": "10:00",
+    "zona": "VIA LA COSTA BOSQUE AZUL",
+    "latitude": -2.1846154,
+    "longitude": -79.9699665
+  },
+  {
+    "fecha": "25/4/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "1/1/2009",
+    "horaev": "22:00",
+    "zona": "CALLE 24AVA Y LA U",
+    "latitude": -2.198147,
+    "longitude": -79.9260817
+  },
+  {
+    "fecha": "5/5/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "3/5/2014",
+    "horaev": "22:00",
+    "zona": "CALLE 15 Y DOMINGO SABIO",
+    "latitude": -2.2116698,
+    "longitude": -79.9087591
+  },
+  {
+    "fecha": "9/5/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "12/4/2014",
+    "horaev": "23:00",
+    "zona": "CALLEJON PARRA Y LA 28",
+    "latitude": -2.2087686,
+    "longitude": -79.9379693
+  },
+  {
+    "fecha": "9/5/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "29/3/2014",
+    "horaev": "8:05",
+    "zona": "KM 11.5 VIA DAULE",
+    "latitude": -2.1342477,
+    "longitude": -79.9336235
+  },
+  {
+    "fecha": "15/5/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "20/6/2013",
+    "horaev": "3:00",
+    "zona": "MUCHO LOTE ETAPA 4",
+    "latitude": -2.0889877,
+    "longitude": -79.9206694
+  },
+  {
+    "fecha": "15/5/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "20/6/2013",
+    "horaev": "3:00",
+    "zona": "MUCHO LOTE ETAPA 4",
+    "latitude": -2.0889877,
+    "longitude": -79.9206694
+  },
+  {
+    "fecha": "26/5/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "10/9/2014",
+    "horaev": "22:10",
+    "zona": "AV. 25 DE JULIO",
+    "latitude": -2.2486735,
+    "longitude": -79.8949104
+  },
+  {
+    "fecha": "24/6/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "6/2/2014",
+    "horaev": "6:45",
+    "zona": "CENTRO DE PRIVATIZACION DE LIBERTAD DE PERSONAS ADULTAS",
+    "latitude": -2.0474802,
+    "longitude": -79.945152
+  },
+  {
+    "fecha": "24/6/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "23/6/2014",
+    "horaev": "14:00",
+    "zona": "LOMAS DE LA FLORIDA",
+    "latitude": -2.1353837,
+    "longitude": -79.9622317
+  },
+  {
+    "fecha": "30/6/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "21/6/2014",
+    "horaev": "17:30",
+    "zona": "AV. QUITO Y CLEMENTE BALLEN",
+    "latitude": -2.1928483,
+    "longitude": -79.8901949
+  },
+  {
+    "fecha": "8/7/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "8/7/2014",
+    "horaev": "13:00",
+    "zona": "LA 36 Y EL ORO",
+    "latitude": -2.2052582,
+    "longitude": -79.9255235
+  },
+  {
+    "fecha": "18/7/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "31/7/2009",
+    "horaev": "20:30",
+    "zona": "CALLES 29 Y LA CH",
+    "latitude": -2.2114549,
+    "longitude": -79.8894111
+  },
+  {
+    "fecha": "22/7/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "1/6/2014",
+    "horaev": "11:45",
+    "zona": "CALLE 11 Y CALLE CH",
+    "latitude": -2.1927043,
+    "longitude": -79.9129529
+  },
+  {
+    "fecha": "12/8/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "8/8/2014",
+    "horaev": "20:00",
+    "zona": "FORTIN DE LA FLOR",
+    "latitude": -2.1133594,
+    "longitude": -79.9514464
+  },
+  {
+    "fecha": "19/8/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "19/8/2014",
+    "horaev": "5:00",
+    "zona": "COOP ASAAD BUCARAM",
+    "latitude": -2.2122614,
+    "longitude": -79.9321592
+  },
+  {
+    "fecha": "25/8/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "23/8/2014",
+    "horaev": "23:30",
+    "zona": "LA FLORIDA",
+    "latitude": -2.1266324,
+    "longitude": -79.9472502
+  },
+  {
+    "fecha": "28/8/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "26/8/2014",
+    "horaev": "11:00",
+    "zona": "BAHIA",
+    "latitude": -2.1961768,
+    "longitude": -79.8849163
+  },
+  {
+    "fecha": "10/9/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "27/7/2014",
+    "horaev": "22:30",
+    "zona": "ELOY ALFARO Y ALBERTO REINA",
+    "latitude": -2.1987185,
+    "longitude": -79.8829042
+  },
+  {
+    "fecha": "16/9/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "3/9/2014",
+    "horaev": "10:30",
+    "zona": "AV LAS AMERICAS",
+    "latitude": -2.1479898,
+    "longitude": -79.8861175
+  },
+  {
+    "fecha": "4/11/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "4/11/2014",
+    "horaev": "8:58",
+    "zona": "MERCADO DE LA FLORIDA",
+    "latitude": -2.1269996,
+    "longitude": -79.9341357
+  },
+  {
+    "fecha": "13/11/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "5/8/2014",
+    "horaev": "17:00",
+    "zona": "MAPASINGUE",
+    "latitude": -2.1503892,
+    "longitude": -79.923151
+  },
+  {
+    "fecha": "13/11/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "6/8/2014",
+    "horaev": "3:00",
+    "zona": "PROSPERINA",
+    "latitude": -2.1435103,
+    "longitude": -79.9388571
+  },
+  {
+    "fecha": "13/11/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "1/1/2014",
+    "horaev": "9:00",
+    "zona": "BATALLON DEL SUBURBIO",
+    "latitude": -2.2258493,
+    "longitude": -79.9388571
+  },
+  {
+    "fecha": "13/11/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "2/7/2014",
+    "horaev": "16:30",
+    "zona": "CDLA LAS ACACIAS",
+    "latitude": -2.2237854,
+    "longitude": -79.9031776
+  },
+  {
+    "fecha": "17/11/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "12/11/2014",
+    "horaev": "22:00",
+    "zona": "MERCADO GUASMO SUR",
+    "latitude": -2.281292,
+    "longitude": -79.8804899
+  },
+  {
+    "fecha": "18/11/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "19/10/2014",
+    "horaev": "23:30",
+    "zona": "ESTERO SALADO",
+    "latitude": -2.2125481,
+    "longitude": -79.9430537
+  },
+  {
+    "fecha": "23/4/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "16/1/2014",
+    "horaev": "16:35",
+    "zona": "CONJUNTO RESIDENCIAL SANTORINI",
+    "latitude": -2.1352505,
+    "longitude": -79.9245171
+  },
+  {
+    "fecha": "28/11/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "13/6/2014",
+    "horaev": "1:00",
+    "zona": "CEMENTERIO DEL SUBURBIO ANGEL MARIA CANALS",
+    "latitude": -2.2153662,
+    "longitude": -79.9375665
+  },
+  {
+    "fecha": "28/11/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "5/5/2013",
+    "horaev": "15:35",
+    "zona": "MERCADO GUASMO SUR",
+    "latitude": -2.281292,
+    "longitude": -79.8804899
+  },
+  {
+    "fecha": "28/11/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "27/11/2014",
+    "horaev": "21:00",
+    "zona": "MERCADO GUASMO SUR",
+    "latitude": -2.281292,
+    "longitude": -79.8804899
+  },
+  {
+    "fecha": "8/12/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "8/12/2014",
+    "horaev": "11:30",
+    "zona": "PEDRO CARBO",
+    "latitude": -2.1946268,
+    "longitude": -79.8819557
+  },
+  {
+    "fecha": "24/12/2014",
+    "delito": "HOMICIDIO",
+    "fechaev": "8/10/2014",
+    "horaev": "2:00",
+    "zona": "LORENZO GARAICOA Y ARGENTINA",
+    "latitude": -2.2078505,
+    "longitude": -79.8893256
+  },
+  {
+    "fecha": "3/1/2014",
+    "delito": "PLAGIO",
+    "fechaev": "2/1/2014",
+    "horaev": "13:30",
+    "zona": "COLEGIO FRANCISCO HUERTA RENDON",
+    "latitude": -2.1507941,
+    "longitude": -79.9141351
+  },
+  {
+    "fecha": "10/3/2014",
+    "delito": "PLAGIO",
+    "fechaev": "5/3/2014",
+    "horaev": "15:40",
+    "zona": "KENNEDY NORTE",
+    "latitude": -2.156567,
+    "longitude": -79.9010784
+  },
+  {
+    "fecha": "15/4/2014",
+    "delito": "PLAGIO",
+    "fechaev": "12/4/2014",
+    "horaev": "18:30",
+    "zona": "SERGIO TORAL SEGUNDA ETAPA",
+    "latitude": -2.1043955,
+    "longitude": -79.9917126
+  },
+  {
+    "fecha": "25/4/2014",
+    "delito": "PLAGIO",
+    "fechaev": "24/4/2014",
+    "horaev": "19:00",
+    "zona": "AYACUCHO Y LA OCTAVA",
+    "latitude": -2.1996554,
+    "longitude": -79.8847983
+  },
+  {
+    "fecha": "6/6/2014",
+    "delito": "PLAGIO",
+    "fechaev": "19/5/2014",
+    "horaev": "6:30",
+    "zona": "ESMERALDAS Y JULIAN CORONEL",
+    "latitude": -2.1824428,
+    "longitude": -79.8912177
+  },
+  {
+    "fecha": "17/6/2014",
+    "delito": "PLAGIO",
+    "fechaev": "14/6/2014",
+    "horaev": "16:00",
+    "zona": "TERMINAL DE BUSES",
+    "latitude": -2.1431266,
+    "longitude": -79.8794435
+  },
+  {
+    "fecha": "24/6/2014",
+    "delito": "PLAGIO",
+    "fechaev": "23/6/2014",
+    "horaev": "7:15",
+    "zona": "SAUCES 6",
+    "latitude": -2.1251006,
+    "longitude": -79.8982793
+  },
+  {
+    "fecha": "10/7/2014",
+    "delito": "PLAGIO",
+    "fechaev": "10/7/2014",
+    "horaev": "8:30",
+    "zona": "AV. JUAN TANCA MARENGO KM. 2..5",
+    "latitude": -2.1473303,
+    "longitude": -79.9103659
+  },
+  {
+    "fecha": "22/7/2014",
+    "delito": "PLAGIO",
+    "fechaev": "21/7/2014",
+    "horaev": "14:30",
+    "zona": "PASCUALES",
+    "latitude": -2.0709494,
+    "longitude": -79.9332613
+  },
+  {
+    "fecha": "8/8/2014",
+    "delito": "PLAGIO",
+    "fechaev": "4/8/2014",
+    "horaev": "14:57",
+    "zona": "CDLA LA FLORIDA",
+    "latitude": -2.2810863,
+    "longitude": -79.8855789
+  },
+  {
+    "fecha": "2/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "1/1/2014",
+    "horaev": "23:00",
+    "zona": "LOS ESTEROS",
+    "latitude": -2.2438091,
+    "longitude": -79.9066763
+  },
+  {
+    "fecha": "2/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/12/2013",
+    "horaev": "7:45",
+    "zona": "VENEZUELA Y JOSE MASCOTE",
+    "latitude": -2.2073915,
+    "longitude": -79.8985876
+  },
+  {
+    "fecha": "2/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "27/12/2013",
+    "horaev": "19:30",
+    "zona": "VIA PERIMETRAL",
+    "latitude": -2.1516293,
+    "longitude": -79.9464615
+  },
+  {
+    "fecha": "2/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "27/12/2013",
+    "horaev": "20:45",
+    "zona": "SEDALANA Y CALLE 24",
+    "latitude": -2.2155462,
+    "longitude": -79.9025144
+  },
+  {
+    "fecha": "2/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "2/1/2014",
+    "horaev": "10:30",
+    "zona": "SAUCES 1",
+    "latitude": -2.1401749,
+    "longitude": -79.8919811
+  },
+  {
+    "fecha": "2/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "26/12/2013",
+    "horaev": "23:00",
+    "zona": "CDLA. LA FRAGATA",
+    "latitude": -2.2414731,
+    "longitude": -79.9109057
+  },
+  {
+    "fecha": "2/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "27/12/2013",
+    "horaev": "20:30",
+    "zona": "AV. QUITO ENTRE SUCRE Y DIEZ DE AGOSTO",
+    "latitude": -2.1942639,
+    "longitude": -79.8906908
+  },
+  {
+    "fecha": "2/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "13/12/2013",
+    "horaev": "22:10",
+    "zona": "AV. COLON E ISMAEL PEREZ PAZMINO",
+    "latitude": -2.1930501,
+    "longitude": -79.9013666
+  },
+  {
+    "fecha": "2/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "31/12/2013",
+    "horaev": "23:30",
+    "zona": "CALLE 38 Y CALLE E",
+    "latitude": -2.2148802,
+    "longitude": -79.9360106
+  },
+  {
+    "fecha": "2/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "28/12/2013",
+    "horaev": "0:10",
+    "zona": "URDESA.",
+    "latitude": -2.1620216,
+    "longitude": -79.9066318
+  },
+  {
+    "fecha": "2/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/12/2013",
+    "horaev": "13:30",
+    "zona": "LOS RIOS Y CUATRO DE NOVIEMBRE",
+    "latitude": -2.209562,
+    "longitude": -79.9151063
+  },
+  {
+    "fecha": "2/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/12/2013",
+    "horaev": "11:00",
+    "zona": "LOS CEIBOS",
+    "latitude": -2.1628705,
+    "longitude": -79.9388571
+  },
+  {
+    "fecha": "2/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "31/12/2013",
+    "horaev": "20:30",
+    "zona": "CALLE 38 Y CALLE CH",
+    "latitude": -2.2207248,
+    "longitude": -79.9229193
+  },
+  {
+    "fecha": "2/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/12/2013",
+    "horaev": "20:45",
+    "zona": "BASTION POPULAR",
+    "latitude": -2.0902412,
+    "longitude": -79.9276651
+  },
+  {
+    "fecha": "2/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "2/1/2013",
+    "horaev": "11:00",
+    "zona": "MAPASINGUE ESTE",
+    "latitude": -2.1503892,
+    "longitude": -79.923151
+  },
+  {
+    "fecha": "2/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/12/2013",
+    "horaev": "13:00",
+    "zona": "AV. QUITO Y COLON",
+    "latitude": -2.1950493,
+    "longitude": -79.8909362
+  },
+  {
+    "fecha": "2/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "22/12/2013",
+    "horaev": "9:00",
+    "zona": "AV. FRANCISCO DE ORELLANA",
+    "latitude": -2.1021065,
+    "longitude": -79.9104041
+  },
+  {
+    "fecha": "2/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "1/1/2014",
+    "horaev": "2:00",
+    "zona": "CALLE 11 Y VENEZUELA",
+    "latitude": -2.2061714,
+    "longitude": -79.9029347
+  },
+  {
+    "fecha": "2/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "29/12/2013",
+    "horaev": "11:30",
+    "zona": "CALLE 16Y CALLE M",
+    "latitude": -2.1975697,
+    "longitude": -79.9068788
+  },
+  {
+    "fecha": "3/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "31/12/2013",
+    "horaev": "21:00",
+    "zona": "CUENCA Y JOSE DE ANTEPARA",
+    "latitude": -2.2007833,
+    "longitude": -79.8943952
+  },
+  {
+    "fecha": "3/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "2/1/2014",
+    "horaev": "19:30",
+    "zona": "CDLA. NUEVA KENNEDY",
+    "latitude": -2.166618,
+    "longitude": -79.9450618
+  },
+  {
+    "fecha": "3/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "2/1/2014",
+    "horaev": "14:00",
+    "zona": "CALLE 29 Y LA Q",
+    "latitude": -2.2114549,
+    "longitude": -79.8894111
+  },
+  {
+    "fecha": "3/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "27/12/2013",
+    "horaev": "14:23",
+    "zona": "CALLE LUQUE Y BOYACA",
+    "latitude": -2.1924246,
+    "longitude": -79.8843879
+  },
+  {
+    "fecha": "3/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/12/2013",
+    "horaev": "22:30",
+    "zona": "PORTETE Y CARCHI",
+    "latitude": -2.205839,
+    "longitude": -79.9013542
+  },
+  {
+    "fecha": "3/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "28/12/2012",
+    "horaev": "11:30",
+    "zona": "CHILE Y CUENCA",
+    "latitude": -2.2031793,
+    "longitude": -79.8848502
+  },
+  {
+    "fecha": "3/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "31/12/2014",
+    "horaev": "20:00",
+    "zona": "CALLE 26 Y CALLE I",
+    "latitude": -2.2192448,
+    "longitude": -79.9349627
+  },
+  {
+    "fecha": "3/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "10/12/2013",
+    "horaev": "8:10",
+    "zona": "PORTETE Y ESMERALDAS",
+    "latitude": -2.2064868,
+    "longitude": -79.8990585
+  },
+  {
+    "fecha": "3/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "13/12/2013",
+    "horaev": "16:00",
+    "zona": "CALLES 31 Y COLOMBIA",
+    "latitude": -2.203838,
+    "longitude": -79.9168685
+  },
+  {
+    "fecha": "3/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "1/1/2014",
+    "horaev": "13:30",
+    "zona": "FLOR DE BASTION",
+    "latitude": -2.1046521,
+    "longitude": -79.9556205
+  },
+  {
+    "fecha": "3/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/12/2013",
+    "horaev": "17:10",
+    "zona": "CDLA. LOS ESTEROS",
+    "latitude": -2.2451263,
+    "longitude": -79.9050901
+  },
+  {
+    "fecha": "3/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "2/1/2014",
+    "horaev": "16:00",
+    "zona": "LA CADENA DE LA BAHIA",
+    "latitude": -2.1989746,
+    "longitude": -79.881749
+  },
+  {
+    "fecha": "3/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "21/12/2013",
+    "horaev": "23:21",
+    "zona": "AV. PLAZA DANIN Y PEATONAL",
+    "latitude": -2.1713334,
+    "longitude": -79.8958901
+  },
+  {
+    "fecha": "3/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "25/12/2013",
+    "horaev": "18:00",
+    "zona": "CDLA. LOS ALMENDROS",
+    "latitude": -2.1701518,
+    "longitude": -79.9228259
+  },
+  {
+    "fecha": "3/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "23/12/2014",
+    "horaev": "18:45",
+    "zona": "SECTOR EL FORTIN BL. 7",
+    "latitude": -2.1865798,
+    "longitude": -79.8776268
+  },
+  {
+    "fecha": "3/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "21/12/2013",
+    "horaev": "3:00",
+    "zona": "COLOMBIA Y NOGUCHI",
+    "latitude": -2.2107783,
+    "longitude": -79.8892144
+  },
+  {
+    "fecha": "3/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "15/12/2013",
+    "horaev": "21:15",
+    "zona": "MATERNIDAD DEL GUASMO",
+    "latitude": -2.276102,
+    "longitude": -79.8773475
+  },
+  {
+    "fecha": "3/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "15/12/2013",
+    "horaev": "16:45",
+    "zona": "GOMEZ RENDON Y JOSE MASCOTE",
+    "latitude": -2.2029374,
+    "longitude": -79.8912288
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "3/1/2014",
+    "horaev": "22:00",
+    "zona": "SANTA ELENA Y URDANETA",
+    "latitude": -2.1965356,
+    "longitude": -79.9082791
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "20/12/2013",
+    "horaev": "23:00",
+    "zona": "PARAISO DE LA FLOR",
+    "latitude": -2.0988723,
+    "longitude": -79.9542438
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "23/12/2013",
+    "horaev": "23:30",
+    "zona": "PORTETE Y PIO MONTUFAR",
+    "latitude": -2.208038,
+    "longitude": -79.8935408
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/12/2013",
+    "horaev": "9:30",
+    "zona": "ISLA TRINITARIA",
+    "latitude": -2.2402791,
+    "longitude": -79.9220686
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "6/1/2014",
+    "horaev": "7:40",
+    "zona": "ENTRADA DE LA 8",
+    "latitude": -2.1183964,
+    "longitude": -79.9475124
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "15/12/2014",
+    "horaev": "20:30",
+    "zona": "SAN MARINO",
+    "latitude": -2.1694047,
+    "longitude": -79.8981044
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "5/1/2014",
+    "horaev": "21:30",
+    "zona": "URBANIZACION SAN FELIPE",
+    "latitude": -2.1385605,
+    "longitude": -79.9220686
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "5/1/2014",
+    "horaev": "21:40",
+    "zona": "PASCUALES VIA AURORA",
+    "latitude": -2.0699888,
+    "longitude": -79.9339933
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "4/1/2014",
+    "horaev": "19:00",
+    "zona": "VIA EL RECREO",
+    "latitude": -2.1439745,
+    "longitude": -79.9051812
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/12/2013",
+    "horaev": "16:00",
+    "zona": "9 DE OCTUBRE Y 1 DE MAYO",
+    "latitude": -2.1875165,
+    "longitude": -79.8928143
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "17/12/2013",
+    "horaev": "3:30",
+    "zona": "PORTETE PARROQUI FEBRES CORDERO",
+    "latitude": -2.2031192,
+    "longitude": -79.9109903
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/12/2014",
+    "horaev": "23:30",
+    "zona": "FRANCISCO DE MARCOS Y 6 DE MARZO",
+    "latitude": -2.2055338,
+    "longitude": -79.8896864
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "27/12/2013",
+    "horaev": "18:30",
+    "zona": "BOYACA",
+    "latitude": -2.1902302,
+    "longitude": -79.8838894
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "3/1/2014",
+    "horaev": "10:00",
+    "zona": "HOSPITAL DE GUAYAQUIL",
+    "latitude": -2.2121461,
+    "longitude": -79.9303921
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "21/12/2013",
+    "horaev": "14:00",
+    "zona": "LOS RIOS Y AGUIRRE",
+    "latitude": -2.1909076,
+    "longitude": -79.8949276
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "5/1/2014",
+    "horaev": "17:00",
+    "zona": "SECTOR DE LA PENAS",
+    "latitude": -2.168413,
+    "longitude": -79.9007005
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "1/1/2014",
+    "horaev": "14:00",
+    "zona": "CERCA DEL PARQUE",
+    "latitude": -2.2103999,
+    "longitude": -79.8947804
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "6/1/2014",
+    "horaev": "7:00",
+    "zona": "COLOMBIA ENTRE LAS CALLES 31 Y 32",
+    "latitude": -2.203838,
+    "longitude": -79.9168685
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "1/10/2013",
+    "horaev": "1:00",
+    "zona": "GOMEZ RENDON Y TUNGURAHUA",
+    "latitude": -2.2005777,
+    "longitude": -79.9004311
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/12/2014",
+    "horaev": "11:30",
+    "zona": "MERCADO CENTRAL",
+    "latitude": -2.1950777,
+    "longitude": -79.8876389
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "21/11/2013",
+    "horaev": "21:30",
+    "zona": "CALLE 14 Y CAMILO DESTRUGE",
+    "latitude": -2.2063192,
+    "longitude": -79.9070921
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "6/1/2014",
+    "horaev": "5:15",
+    "zona": "BASTION POPULAR",
+    "latitude": -2.0902412,
+    "longitude": -79.9276651
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "31/12/2013",
+    "horaev": "15:00",
+    "zona": "VILLA ESPANA 2",
+    "latitude": -2.0681183,
+    "longitude": -79.8965287
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "31/12/2014",
+    "horaev": "22:30",
+    "zona": "QUINTO GUAYAS",
+    "latitude": -2.1095408,
+    "longitude": -79.9220686
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "3/1/2014",
+    "horaev": "22:00",
+    "zona": "PRADERA 2",
+    "latitude": -2.2409344,
+    "longitude": -79.8910734
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "3/1/2014",
+    "horaev": "5:45",
+    "zona": "PADRE SOLANO ENTRE GARCIA MORENO Y AV. DEL EJERCITO",
+    "latitude": -2.1860495,
+    "longitude": -79.8912584
+  },
+  {
+    "fecha": "6/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "27/12/2013",
+    "horaev": "14:50",
+    "zona": "POR EL COLEGIO ALEMAN HUMBOLT",
+    "latitude": -2.1671394,
+    "longitude": -79.9437532
+  },
+  {
+    "fecha": "7/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "6/1/2014",
+    "horaev": "19:30",
+    "zona": "PASCUALES",
+    "latitude": -2.0709494,
+    "longitude": -79.9332613
+  },
+  {
+    "fecha": "7/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "4/1/2014",
+    "horaev": "12:15",
+    "zona": "COOP. UNION DE BANANEROS BLOQ. 4",
+    "latitude": -2.273372,
+    "longitude": -79.8753808
+  },
+  {
+    "fecha": "7/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/12/2013",
+    "horaev": "12:00",
+    "zona": "FLORESTA 1",
+    "latitude": -2.2509126,
+    "longitude": -79.8859128
+  },
+  {
+    "fecha": "7/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/12/2014",
+    "horaev": "21:00",
+    "zona": "ESMERALDAS Y PADRE SOLANO",
+    "latitude": -2.1859333,
+    "longitude": -79.8926535
+  },
+  {
+    "fecha": "7/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "7/1/2014",
+    "horaev": "8:58",
+    "zona": "COOP. SIETE LAGOS",
+    "latitude": -2.1906686,
+    "longitude": -79.8811891
+  },
+  {
+    "fecha": "7/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "6/1/2014",
+    "horaev": "22:10",
+    "zona": "FRENTE AL CEMENTERIO",
+    "latitude": -2.1824892,
+    "longitude": -79.8863823
+  },
+  {
+    "fecha": "7/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "6/1/2014",
+    "horaev": "19:30",
+    "zona": "BASTION POPULAR BLOQUE 10",
+    "latitude": -2.0811848,
+    "longitude": -79.9283647
+  },
+  {
+    "fecha": "7/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "6/1/2014",
+    "horaev": "14:30",
+    "zona": "VIA PERIMETRAL",
+    "latitude": -2.1516293,
+    "longitude": -79.9464615
+  },
+  {
+    "fecha": "7/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "6/1/2014",
+    "horaev": "10:00",
+    "zona": "MAPASINGUE OESTE",
+    "latitude": -2.1616321,
+    "longitude": -79.9346603
+  },
+  {
+    "fecha": "7/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "6/1/2014",
+    "horaev": "22:30",
+    "zona": "MERCADO MONTEBELLO",
+    "latitude": -2.0885329,
+    "longitude": -79.9437532
+  },
+  {
+    "fecha": "7/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "7/1/2014",
+    "horaev": "6:30",
+    "zona": "SAMANES",
+    "latitude": -2.1023712,
+    "longitude": -79.9018009
+  },
+  {
+    "fecha": "7/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "27/12/2013",
+    "horaev": "21:30",
+    "zona": "URDESA CENTRAL",
+    "latitude": -2.1690471,
+    "longitude": -79.9066383
+  },
+  {
+    "fecha": "7/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "31/12/2014",
+    "horaev": "19:30",
+    "zona": "DETRAS DEL CITY MALL",
+    "latitude": -2.1409511,
+    "longitude": -79.909585
+  },
+  {
+    "fecha": "7/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "23/12/2013",
+    "horaev": "9:00",
+    "zona": "LOS RIOS Y CLEMENTE BALLEN",
+    "latitude": -2.1917557,
+    "longitude": -79.8952045
+  },
+  {
+    "fecha": "7/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "3/1/2014",
+    "horaev": "18:30",
+    "zona": "PASCUALES",
+    "latitude": -2.0709494,
+    "longitude": -79.9332613
+  },
+  {
+    "fecha": "7/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "1/11/2013",
+    "horaev": "13:24",
+    "zona": "DIARIO EL TELEGRAFO",
+    "latitude": -2.1776531,
+    "longitude": -79.90965
+  },
+  {
+    "fecha": "7/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "6/1/2014",
+    "horaev": "21:00",
+    "zona": "CALLES 9 DE OCTUBRE Y ESCOBEDO",
+    "latitude": -2.1845299,
+    "longitude": -79.881781
+  },
+  {
+    "fecha": "7/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "4/1/2014",
+    "horaev": "19:30",
+    "zona": "VILLA CLUB",
+    "latitude": -2.0383247,
+    "longitude": -79.8955084
+  },
+  {
+    "fecha": "8/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "28/12/2013",
+    "horaev": "21:00",
+    "zona": "AV. FRANCISCO DE ORELLANA",
+    "latitude": -2.1021065,
+    "longitude": -79.9104041
+  },
+  {
+    "fecha": "8/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "7/1/2014",
+    "horaev": "15:30",
+    "zona": "SAUCES 4",
+    "latitude": -2.1244174,
+    "longitude": -79.8863823
+  },
+  {
+    "fecha": "8/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "8/1/2014",
+    "horaev": "10:30",
+    "zona": "EL FORTIN",
+    "latitude": -2.110065,
+    "longitude": -79.9565322
+  },
+  {
+    "fecha": "8/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "6/1/2014",
+    "horaev": "20:30",
+    "zona": "PORTETE Y CALLE 27",
+    "latitude": -2.2014357,
+    "longitude": -79.9170477
+  },
+  {
+    "fecha": "8/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "31/12/2013",
+    "horaev": "8:00",
+    "zona": "PASCUALES",
+    "latitude": -2.0709494,
+    "longitude": -79.9332613
+  },
+  {
+    "fecha": "8/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/12/2013",
+    "horaev": "20:46",
+    "zona": "DOMINGO COMIN Y CALLE 11",
+    "latitude": -2.2276079,
+    "longitude": -79.8899261
+  },
+  {
+    "fecha": "8/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "24/12/2013",
+    "horaev": "2:00",
+    "zona": "AV. 25 DE JULIO. SOPENA",
+    "latitude": -2.2455041,
+    "longitude": -79.8954294
+  },
+  {
+    "fecha": "8/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "3/1/2014",
+    "horaev": "16:30",
+    "zona": "LOS VERGELES",
+    "latitude": -2.0886801,
+    "longitude": -79.9006795
+  },
+  {
+    "fecha": "8/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "6/1/2014",
+    "horaev": "20:45",
+    "zona": "SAUCES 3",
+    "latitude": -2.1274633,
+    "longitude": -79.8898816
+  },
+  {
+    "fecha": "8/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "8/1/2014",
+    "horaev": "3:00",
+    "zona": "PUERTO AZUL",
+    "latitude": -2.192116,
+    "longitude": -79.9668308
+  },
+  {
+    "fecha": "8/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "5/1/2014",
+    "horaev": "16:45",
+    "zona": "HOSPITAL GUAYAQUIL",
+    "latitude": -2.2121461,
+    "longitude": -79.9303921
+  },
+  {
+    "fecha": "8/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "20/12/2013",
+    "horaev": "21:35",
+    "zona": "VICTOR EMILIO ESTRADA",
+    "latitude": -2.1688943,
+    "longitude": -79.9104437
+  },
+  {
+    "fecha": "8/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/12/2013",
+    "horaev": "23:40",
+    "zona": "MALL DEL SOL",
+    "latitude": -2.1552845,
+    "longitude": -79.8926177
+  },
+  {
+    "fecha": "8/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/12/2013",
+    "horaev": "10:15",
+    "zona": "CALLE 11 Y MALDONADO",
+    "latitude": -2.176606,
+    "longitude": -79.8972049
+  },
+  {
+    "fecha": "8/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "7/1/2014",
+    "horaev": "21:40",
+    "zona": "LOMAS DE BELLAVISTA",
+    "latitude": -2.2104187,
+    "longitude": -79.9391156
+  },
+  {
+    "fecha": "8/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "8/1/2014",
+    "horaev": "6:45",
+    "zona": "BASTION POPULAR",
+    "latitude": -2.0902412,
+    "longitude": -79.9276651
+  },
+  {
+    "fecha": "8/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "8/1/2014",
+    "horaev": "8:35",
+    "zona": "SAUCES 3",
+    "latitude": -2.1274633,
+    "longitude": -79.8898816
+  },
+  {
+    "fecha": "9/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "8/1/2014",
+    "horaev": "22:30",
+    "zona": "AV. ISIDRO AYORA Y VIA DAULE",
+    "latitude": -2.087498,
+    "longitude": -79.9254026
+  },
+  {
+    "fecha": "9/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "8/1/2014",
+    "horaev": "7:10",
+    "zona": "COOP. 7 LAGOS",
+    "latitude": -2.1874371,
+    "longitude": -79.8963656
+  },
+  {
+    "fecha": "9/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "4/1/2014",
+    "horaev": "15:20",
+    "zona": "LOS CIRUELOS Y EL CERRO",
+    "latitude": -2.1699402,
+    "longitude": -79.9216913
+  },
+  {
+    "fecha": "9/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "28/12/2013",
+    "horaev": "16:30",
+    "zona": "AV. GOMEZ LINCE",
+    "latitude": -2.087498,
+    "longitude": -79.9254026
+  },
+  {
+    "fecha": "9/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "29/12/2013",
+    "horaev": "6:00",
+    "zona": "AV. LAS ESCLUSAS",
+    "latitude": -2.2504114,
+    "longitude": -79.8901239
+  },
+  {
+    "fecha": "9/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "9/1/2014",
+    "horaev": "3:00",
+    "zona": "AV. DE LAS AMERICAS Y HERMANO MIGUEL",
+    "latitude": -2.1502592,
+    "longitude": -79.8863071
+  },
+  {
+    "fecha": "9/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "9/1/2014",
+    "horaev": "12:30",
+    "zona": "PROSPERINA",
+    "latitude": -2.1435103,
+    "longitude": -79.9388571
+  },
+  {
+    "fecha": "9/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "6/1/2014",
+    "horaev": "21:40",
+    "zona": "CALLE 29 Y ORIENTE",
+    "latitude": -2.2008839,
+    "longitude": -79.9295631
+  },
+  {
+    "fecha": "9/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "9/1/2014",
+    "horaev": "12:00",
+    "zona": "AV. ILLINGWORTH",
+    "latitude": -2.2008839,
+    "longitude": -79.9295631
+  },
+  {
+    "fecha": "9/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "5/1/2014",
+    "horaev": "2:40",
+    "zona": "FLOR DE BASTION",
+    "latitude": -2.1046521,
+    "longitude": -79.9556205
+  },
+  {
+    "fecha": "9/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "9/1/2014",
+    "horaev": "7:40",
+    "zona": "LAS ORQUIDEAS",
+    "latitude": -2.2824041,
+    "longitude": -79.8865576
+  },
+  {
+    "fecha": "9/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "9/9/2013",
+    "horaev": "9:32",
+    "zona": "AV. FRANCISCO DE ORELLANA",
+    "latitude": -2.1021065,
+    "longitude": -79.9104041
+  },
+  {
+    "fecha": "9/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "9/1/2014",
+    "horaev": "12:00",
+    "zona": "MALDONADO Y PEDRO MONCAYO",
+    "latitude": -2.2033358,
+    "longitude": -79.8927389
+  },
+  {
+    "fecha": "9/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "9/1/2014",
+    "horaev": "0:15",
+    "zona": "CDLA. MIRAFLORES",
+    "latitude": -2.1647707,
+    "longitude": -79.920504
+  },
+  {
+    "fecha": "9/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "6/1/2014",
+    "horaev": "23:00",
+    "zona": "SAUCES 8",
+    "latitude": -2.129365,
+    "longitude": -79.9031776
+  },
+  {
+    "fecha": "9/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "9/1/2014",
+    "horaev": "11:30",
+    "zona": "CDLA. SAN FELIPE",
+    "latitude": -2.1385605,
+    "longitude": -79.9220686
+  },
+  {
+    "fecha": "10/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "28/12/2013",
+    "horaev": "20:10",
+    "zona": "ROSA BORJA ICAZA Y MARACAIBO",
+    "latitude": -2.2177782,
+    "longitude": -79.8886568
+  },
+  {
+    "fecha": "10/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "8/1/2014",
+    "horaev": "9:45",
+    "zona": "VENEZUELA Y GARCIA MORENO",
+    "latitude": -2.2077717,
+    "longitude": -79.897272
+  },
+  {
+    "fecha": "10/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "9/1/2014",
+    "horaev": "18:00",
+    "zona": "AV. 25 DE JULIO. CDLA. 9 DE OCTUBRE",
+    "latitude": -2.2509983,
+    "longitude": -79.8945539
+  },
+  {
+    "fecha": "10/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "10/1/2014",
+    "horaev": "12:00",
+    "zona": "AV. MACHALA Y 10 DE AGOSTO",
+    "latitude": -2.1936577,
+    "longitude": -79.8913644
+  },
+  {
+    "fecha": "10/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "8/1/2014",
+    "horaev": "18:50",
+    "zona": "ANTEPARA Y FRANCISCO SEGURA",
+    "latitude": -2.2182557,
+    "longitude": -79.8998288
+  },
+  {
+    "fecha": "10/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "7/1/2014",
+    "horaev": "15:00",
+    "zona": "SANTA ELENA Y SUCRE",
+    "latitude": -2.2152652,
+    "longitude": -79.8911327
+  },
+  {
+    "fecha": "10/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "7/1/2014",
+    "horaev": "16:00",
+    "zona": "PEDRO CARBO",
+    "latitude": -2.1946268,
+    "longitude": -79.8819557
+  },
+  {
+    "fecha": "10/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "9/1/2014",
+    "horaev": "18:15",
+    "zona": "SEGUNDO PUENTE DE LA PERIMETRAL",
+    "latitude": -2.2342474,
+    "longitude": -79.938525
+  },
+  {
+    "fecha": "10/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "31/12/2013",
+    "horaev": "23:30",
+    "zona": "CALLE 15 YCAPITAN NAJERA",
+    "latitude": -2.1966274,
+    "longitude": -79.9048937
+  },
+  {
+    "fecha": "10/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "31/3/1900",
+    "horaev": "17:00",
+    "zona": "CDLA. SAUCES 8",
+    "latitude": -2.1284123,
+    "longitude": -79.9022347
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "11/1/2014",
+    "horaev": "21:30",
+    "zona": "SAMANES I",
+    "latitude": -2.1142292,
+    "longitude": -79.8996789
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "11/1/2014",
+    "horaev": "21:30",
+    "zona": "GARCIA AVILES ENTRE P ICAZA Y VICTOR MANUEL RENDON",
+    "latitude": -2.1954353,
+    "longitude": -79.8855292
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "13/1/2014",
+    "horaev": "7:10",
+    "zona": "EDUARDO KINGMAN",
+    "latitude": -2.1169894,
+    "longitude": -79.8945877
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "11/1/2014",
+    "horaev": "14:30",
+    "zona": "MONTE SINAI",
+    "latitude": -2.1632385,
+    "longitude": -79.9224842
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "12/1/2014",
+    "horaev": "0:20",
+    "zona": "SAMANES I",
+    "latitude": -2.1142292,
+    "longitude": -79.8996789
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "13/1/2014",
+    "horaev": "9:30",
+    "zona": "CALLE 22 Y CALLE P",
+    "latitude": -2.1959343,
+    "longitude": -79.9291399
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "10/1/2014",
+    "horaev": "0:23",
+    "zona": "PARAISO DE LA FLOR",
+    "latitude": -2.0988723,
+    "longitude": -79.9542438
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "10/1/2014",
+    "horaev": "15:00",
+    "zona": "PORTETE Y CALLE 31",
+    "latitude": -2.2007844,
+    "longitude": -79.92011
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "28/9/2013",
+    "horaev": "8:20",
+    "zona": "AGUIRRE Y PEDRO MONCAYO",
+    "latitude": -2.192138,
+    "longitude": -79.8891659
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "8/1/2014",
+    "horaev": "11:30",
+    "zona": "AV. JUAN TANCA MARENGO KM. 2.5",
+    "latitude": -2.1473303,
+    "longitude": -79.9103659
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "10/1/2014",
+    "horaev": "16:00",
+    "zona": "PORTETE Y CALLE 38",
+    "latitude": -2.1993754,
+    "longitude": -79.9257234
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "10/1/2014",
+    "horaev": "13:00",
+    "zona": "AV. MARTHA DE ROLDOS",
+    "latitude": -2.1629465,
+    "longitude": -79.9262117
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "13/1/2014",
+    "horaev": "6:45",
+    "zona": "CALLE NOVENA Y LETAMENDI",
+    "latitude": -2.1928214,
+    "longitude": -79.9058145
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "13/1/2014",
+    "horaev": "17:41",
+    "zona": "CLEMENTE BALLEN E ISMAEL PEREZ",
+    "latitude": -2.1905507,
+    "longitude": -79.9008431
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "11/1/2014",
+    "horaev": "7:30",
+    "zona": "CALLE E ENTRE CALLE 19 Y CALLE 18",
+    "latitude": -2.1348334,
+    "longitude": -79.9018349
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "9/1/2014",
+    "horaev": "22:45",
+    "zona": "PECA",
+    "latitude": -2.0984022,
+    "longitude": -79.9363733
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "10/1/2014",
+    "horaev": "23:00",
+    "zona": "CALLE LUQUE",
+    "latitude": -2.1914703,
+    "longitude": -79.8889009
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "12/1/2014",
+    "horaev": "23:00",
+    "zona": "SAUCES 8",
+    "latitude": -2.129365,
+    "longitude": -79.9031776
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "11/1/2014",
+    "horaev": "20:00",
+    "zona": "CALLE 27 Y GARCIA GOYENA",
+    "latitude": -2.2040468,
+    "longitude": -79.9185978
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "12/1/2014",
+    "horaev": "5:30",
+    "zona": "SEDALANA Y ESMERALDAS",
+    "latitude": -2.2155462,
+    "longitude": -79.9025144
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "11/1/2014",
+    "horaev": "20:00",
+    "zona": "PECA",
+    "latitude": -2.0984022,
+    "longitude": -79.9363733
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "10/1/2014",
+    "horaev": "21:00",
+    "zona": "AV. PERIMETRAL",
+    "latitude": -2.1516293,
+    "longitude": -79.9464615
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "11/1/2014",
+    "horaev": "18:50",
+    "zona": "CDLA. MIRAFLORES",
+    "latitude": -2.1647707,
+    "longitude": -79.920504
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "12/1/2014",
+    "horaev": "11:30",
+    "zona": "ENTRADA DE LA OCHO",
+    "latitude": -2.1183964,
+    "longitude": -79.9475124
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "9/1/2014",
+    "horaev": "22:04",
+    "zona": "VIA TERMINAL TERRESTRE PASCUALES",
+    "latitude": -2.0971413,
+    "longitude": -79.8920772
+  },
+  {
+    "fecha": "13/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "6/1/2014",
+    "horaev": "15:30",
+    "zona": "PARQUE CENTENARIO",
+    "latitude": -2.1898193,
+    "longitude": -79.8877164
+  },
+  {
+    "fecha": "14/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "12/1/2014",
+    "horaev": "10:00",
+    "zona": "LOS RIOS Y BOLIVIA",
+    "latitude": -2.2096707,
+    "longitude": -79.9007493
+  },
+  {
+    "fecha": "14/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "13/1/2013",
+    "horaev": "22:00",
+    "zona": "LETAMENDI Y GUARANDA",
+    "latitude": -2.2057018,
+    "longitude": -79.8920545
+  },
+  {
+    "fecha": "14/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "13/1/2014",
+    "horaev": "5:30",
+    "zona": "PROSPERINA",
+    "latitude": -2.1435103,
+    "longitude": -79.9388571
+  },
+  {
+    "fecha": "14/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "13/1/2014",
+    "horaev": "7:45",
+    "zona": "VIA PERIMETRAL EN LA INTERSECCION DE LA VIA A LA COSTA",
+    "latitude": -2.1855369,
+    "longitude": -79.9517799
+  },
+  {
+    "fecha": "14/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "10/1/2014",
+    "horaev": "21:40",
+    "zona": "CUENCA Y GUERRERO VALENZUELA",
+    "latitude": -2.1985609,
+    "longitude": -79.9030215
+  },
+  {
+    "fecha": "14/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "13/1/2014",
+    "horaev": "21:45",
+    "zona": "AV. 25 DE JULIO",
+    "latitude": -2.2486735,
+    "longitude": -79.8949104
+  },
+  {
+    "fecha": "14/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "28/12/2013",
+    "horaev": "21:15",
+    "zona": "VIA A DAULE KM. 14",
+    "latitude": -2.1040544,
+    "longitude": -79.9351168
+  },
+  {
+    "fecha": "14/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "13/1/2014",
+    "horaev": "22:30",
+    "zona": "ORIENTE Y CALLE OCHO",
+    "latitude": -2.2172406,
+    "longitude": -79.909399
+  },
+  {
+    "fecha": "14/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "11/1/2014",
+    "horaev": "20:00",
+    "zona": "SAUCES VII",
+    "latitude": -2.135328,
+    "longitude": -79.8905814
+  },
+  {
+    "fecha": "14/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "13/1/2014",
+    "horaev": "16:00",
+    "zona": "PRIMERO DE MAYO Y AV. QUITO",
+    "latitude": -2.1885989,
+    "longitude": -79.8889608
+  },
+  {
+    "fecha": "14/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "13/1/2014",
+    "horaev": "20:30",
+    "zona": "ESMERALDAS ENTRE PORTETE Y VENEZUELA",
+    "latitude": -2.1400206,
+    "longitude": -79.8801149
+  },
+  {
+    "fecha": "15/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/12/2013",
+    "horaev": "11:00",
+    "zona": "CALLE 16 Y MALDONADO",
+    "latitude": -2.199905,
+    "longitude": -79.9067812
+  },
+  {
+    "fecha": "15/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "14/1/2014",
+    "horaev": "22:00",
+    "zona": "CDLA. KENNEDY",
+    "latitude": -2.1753207,
+    "longitude": -79.9003786
+  },
+  {
+    "fecha": "15/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "15/1/2014",
+    "horaev": "7:30",
+    "zona": "COOP. UNION DE LOS POBRES",
+    "latitude": -2.273372,
+    "longitude": -79.8753808
+  },
+  {
+    "fecha": "15/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "15/1/2014",
+    "horaev": "12:30",
+    "zona": "MALDONADO Y CALLE NOVENA",
+    "latitude": -2.201525,
+    "longitude": -79.9000019
+  },
+  {
+    "fecha": "15/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "14/1/2014",
+    "horaev": "22:00",
+    "zona": "PROSPERINA",
+    "latitude": -2.1435103,
+    "longitude": -79.9388571
+  },
+  {
+    "fecha": "15/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "10/1/2014",
+    "horaev": "6:00",
+    "zona": "PASCUALES",
+    "latitude": -2.0709494,
+    "longitude": -79.9332613
+  },
+  {
+    "fecha": "15/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "13/1/2014",
+    "horaev": "18:30",
+    "zona": "TUNGURAHUA Y HURTADO",
+    "latitude": -2.188102,
+    "longitude": -79.8964955
+  },
+  {
+    "fecha": "15/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "14/1/2014",
+    "horaev": "16:46",
+    "zona": "AV. FRANCISCO DE ORELLANA",
+    "latitude": -2.1021065,
+    "longitude": -79.9104041
+  },
+  {
+    "fecha": "15/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "14/1/2014",
+    "horaev": "10:00",
+    "zona": "ENTRADA DE LA 8",
+    "latitude": -2.1183964,
+    "longitude": -79.9475124
+  },
+  {
+    "fecha": "15/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "15/1/2014",
+    "horaev": "9:15",
+    "zona": "AV. CARLOS JULIO AROSEMENA FRENTE A LA UNIVERSIDAD CATOLICA",
+    "latitude": -2.1803777,
+    "longitude": -79.90372
+  },
+  {
+    "fecha": "15/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "8/1/2014",
+    "horaev": "6:40",
+    "zona": "LAS ESCLUSAS",
+    "latitude": -2.2504114,
+    "longitude": -79.8901239
+  },
+  {
+    "fecha": "15/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "14/1/2014",
+    "horaev": "19:45",
+    "zona": "PASCUALES",
+    "latitude": -2.0709494,
+    "longitude": -79.9332613
+  },
+  {
+    "fecha": "15/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "14/1/2014",
+    "horaev": "12:40",
+    "zona": "AV. BENJAMIN CARRION",
+    "latitude": -2.1360763,
+    "longitude": -79.9026233
+  },
+  {
+    "fecha": "15/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "13/1/2014",
+    "horaev": "20:15",
+    "zona": "ALBORADA 12 ETAPA",
+    "latitude": -2.1354208,
+    "longitude": -79.9045771
+  },
+  {
+    "fecha": "16/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "15/1/2014",
+    "horaev": "20:30",
+    "zona": "QUISQUIS Y ANTEPARA",
+    "latitude": -2.1875779,
+    "longitude": -79.890198
+  },
+  {
+    "fecha": "16/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "15/1/2014",
+    "horaev": "22:55",
+    "zona": "METROVIA. PARADA LEON BECERRA",
+    "latitude": -2.2138335,
+    "longitude": -79.887607
+  },
+  {
+    "fecha": "16/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "15/1/2014",
+    "horaev": "15:30",
+    "zona": "MAPASINGUE ESTE",
+    "latitude": -2.1503892,
+    "longitude": -79.923151
+  },
+  {
+    "fecha": "16/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "15/1/2014",
+    "horaev": "20:30",
+    "zona": "AGUIRRE Y QUITO",
+    "latitude": -2.1919878,
+    "longitude": -79.8899463
+  },
+  {
+    "fecha": "16/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "15/1/2014",
+    "horaev": "9:10",
+    "zona": "AV LAS AGUAS",
+    "latitude": -2.1551261,
+    "longitude": -79.9130792
+  },
+  {
+    "fecha": "16/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "15/1/2014",
+    "horaev": "23:30",
+    "zona": "ALBORADA 13AVA ESTAPA",
+    "latitude": -2.1221102,
+    "longitude": -79.9031776
+  },
+  {
+    "fecha": "17/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "13/1/2014",
+    "horaev": "1:30",
+    "zona": "ALBORADA SEGUNDA ETAPA",
+    "latitude": -2.1424797,
+    "longitude": -79.8946059
+  },
+  {
+    "fecha": "17/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "12/1/2014",
+    "horaev": "2:40",
+    "zona": "VIA PERIMETRAL. AV. CASUARINA",
+    "latitude": -2.1364743,
+    "longitude": -79.9479389
+  },
+  {
+    "fecha": "17/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "16/1/2014",
+    "horaev": "23:30",
+    "zona": "MACHALA Y LOS RIOS",
+    "latitude": -2.206277,
+    "longitude": -79.8953011
+  },
+  {
+    "fecha": "17/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "16/1/2014",
+    "horaev": "21:40",
+    "zona": "LAS ORQUIDEAS",
+    "latitude": -2.2824041,
+    "longitude": -79.8865576
+  },
+  {
+    "fecha": "17/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "16/1/2014",
+    "horaev": "19:00",
+    "zona": "MALECON Y LOJA",
+    "latitude": -2.1857001,
+    "longitude": -79.8768946
+  },
+  {
+    "fecha": "17/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "17/1/2014",
+    "horaev": "6:00",
+    "zona": "AV. DE LAS AMERICAS Y PLAZA DANIN",
+    "latitude": -2.1710926,
+    "longitude": -79.8919836
+  },
+  {
+    "fecha": "17/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "16/1/2014",
+    "horaev": "17:25",
+    "zona": "AV. 9 DE OCTUBRE Y BOYACA",
+    "latitude": -2.1910652,
+    "longitude": -79.8840889
+  },
+  {
+    "fecha": "17/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "16/1/2014",
+    "horaev": "19:10",
+    "zona": "LA FRAGATA",
+    "latitude": -2.2438091,
+    "longitude": -79.9066763
+  },
+  {
+    "fecha": "20/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "18/1/2014",
+    "horaev": "11:00",
+    "zona": "MAPASINGUE ESTE",
+    "latitude": -2.1503892,
+    "longitude": -79.923151
+  },
+  {
+    "fecha": "20/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "10/1/2014",
+    "horaev": "8:15",
+    "zona": "CALLE 38 Y VENEZUELA",
+    "latitude": -2.2001389,
+    "longitude": -79.9259399
+  },
+  {
+    "fecha": "20/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "17/1/2014",
+    "horaev": "17:30",
+    "zona": "PUERTO LISA. VENEZUELA Y CALLE 11",
+    "latitude": -2.2061714,
+    "longitude": -79.9029347
+  },
+  {
+    "fecha": "20/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "19/1/2014",
+    "horaev": "4:00",
+    "zona": "CDLA. SAN FRANCISCO",
+    "latitude": -2.2635092,
+    "longitude": -79.8910934
+  },
+  {
+    "fecha": "20/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "19/1/2014",
+    "horaev": "6:00",
+    "zona": "ISLA TRINITARIA",
+    "latitude": -2.2402791,
+    "longitude": -79.9220686
+  },
+  {
+    "fecha": "20/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "14/1/2014",
+    "horaev": "20:30",
+    "zona": "SEIS DE MARZO Y HUANCAVILCA",
+    "latitude": -2.2000463,
+    "longitude": -79.8889585
+  },
+  {
+    "fecha": "20/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "19/1/2014",
+    "horaev": "10:00",
+    "zona": "LUQUE Y CHIMBORAZO",
+    "latitude": -2.1927153,
+    "longitude": -79.8831697
+  },
+  {
+    "fecha": "20/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "15/1/2014",
+    "horaev": "16:07",
+    "zona": "AV. VICTOR EMILIO ESTRADA",
+    "latitude": -2.1688943,
+    "longitude": -79.9104437
+  },
+  {
+    "fecha": "20/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "15/1/2014",
+    "horaev": "16:11",
+    "zona": "AV. VICTOR EMILIO ESTRADA",
+    "latitude": -2.1688943,
+    "longitude": -79.9104437
+  },
+  {
+    "fecha": "20/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "22/12/2013",
+    "horaev": "18:57",
+    "zona": "AV. 9 DE OCTUBRE Y RUMICHACA",
+    "latitude": -2.1903534,
+    "longitude": -79.8861213
+  },
+  {
+    "fecha": "20/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "16/1/2014",
+    "horaev": "19:00",
+    "zona": "CDLA. LOS ESTEROS",
+    "latitude": -2.2451263,
+    "longitude": -79.9050901
+  },
+  {
+    "fecha": "20/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "19/1/2014",
+    "horaev": "1:50",
+    "zona": "CARCHI Y HUANCAVILCA",
+    "latitude": -2.1969462,
+    "longitude": -79.8985074
+  },
+  {
+    "fecha": "20/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "27/12/2013",
+    "horaev": "23:30",
+    "zona": "CDLA. LOS ALMENDROS",
+    "latitude": -2.1701518,
+    "longitude": -79.9228259
+  },
+  {
+    "fecha": "20/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "26/12/2013",
+    "horaev": "22:30",
+    "zona": "CDLA. SANTA ANA",
+    "latitude": -2.1811705,
+    "longitude": -79.877618
+  },
+  {
+    "fecha": "20/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "20/1/2014",
+    "horaev": "9:00",
+    "zona": "BASTION POPULAR",
+    "latitude": -2.0902412,
+    "longitude": -79.9276651
+  },
+  {
+    "fecha": "20/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "19/1/2014",
+    "horaev": "22:30",
+    "zona": "AV. PEDRO MENENDEZ GILBERT",
+    "latitude": -2.1775349,
+    "longitude": -79.8813053
+  },
+  {
+    "fecha": "20/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "18/1/2014",
+    "horaev": "20:00",
+    "zona": "AV. DOMINGO COMIN. CARAGUAY",
+    "latitude": -2.2273031,
+    "longitude": -79.8899844
+  },
+  {
+    "fecha": "20/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "19/1/2014",
+    "horaev": "2:30",
+    "zona": "CALLE 19 Y 4 DE NOVIEMBRE",
+    "latitude": -2.2313448,
+    "longitude": -79.9380418
+  },
+  {
+    "fecha": "20/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "19/1/2014",
+    "horaev": "21:00",
+    "zona": "ARGENTINA Y GUARANDA",
+    "latitude": -2.2070364,
+    "longitude": -79.8924887
+  },
+  {
+    "fecha": "21/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "16/1/2014",
+    "horaev": "3:15",
+    "zona": "COOP JUAN MONTALVO",
+    "latitude": -2.1303482,
+    "longitude": -79.9147226
+  },
+  {
+    "fecha": "21/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "9/1/2014",
+    "horaev": "21:40",
+    "zona": "JOSE DE ANTEPARA Y GARCIA MORENO",
+    "latitude": -2.2147011,
+    "longitude": -79.8986489
+  },
+  {
+    "fecha": "21/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "20/1/2014",
+    "horaev": "21:40",
+    "zona": "COOP SERGIO TORAL",
+    "latitude": -2.0988527,
+    "longitude": -79.98934
+  },
+  {
+    "fecha": "21/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "21/1/2014",
+    "horaev": "11:00",
+    "zona": "AV MACHALA",
+    "latitude": -2.184272,
+    "longitude": -79.8884781
+  },
+  {
+    "fecha": "21/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "20/1/2014",
+    "horaev": "19:15",
+    "zona": "9 DE OCTUBRE Y PEDRO MONCAYO",
+    "latitude": -2.1896959,
+    "longitude": -79.8883763
+  },
+  {
+    "fecha": "21/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "20/1/2014",
+    "horaev": "16:00",
+    "zona": "COLON Y ESMERALDAS",
+    "latitude": -2.1940985,
+    "longitude": -79.8951658
+  },
+  {
+    "fecha": "21/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/12/2013",
+    "horaev": "9:30",
+    "zona": "PERIMETRAL - ISLA TRINITARIA",
+    "latitude": -2.2379073,
+    "longitude": -79.926176
+  },
+  {
+    "fecha": "21/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "27/12/2013",
+    "horaev": "16:00",
+    "zona": "CALLES 19 Y LA J",
+    "latitude": -2.1335165,
+    "longitude": -79.9042065
+  },
+  {
+    "fecha": "22/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "8/1/2014",
+    "horaev": "21:45",
+    "zona": "ISLA TRINITARIA. COOP 4 DE MARZO",
+    "latitude": -2.2348579,
+    "longitude": -79.9269656
+  },
+  {
+    "fecha": "22/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "19/1/2014",
+    "horaev": "18:30",
+    "zona": "BASTION POPULAR",
+    "latitude": -2.0902412,
+    "longitude": -79.9276651
+  },
+  {
+    "fecha": "22/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "19/1/2014",
+    "horaev": "3:30",
+    "zona": "CALLE 29 Y CAMILO DESTRUJE",
+    "latitude": -2.2076321,
+    "longitude": -79.9026174
+  },
+  {
+    "fecha": "22/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "15/1/2014",
+    "horaev": "23:45",
+    "zona": "NOGUCHI Y AYACUCHO",
+    "latitude": -2.1987983,
+    "longitude": -79.8866878
+  },
+  {
+    "fecha": "22/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "21/1/2014",
+    "horaev": "18:45",
+    "zona": "COLON Y AV. QUITO",
+    "latitude": -2.1950493,
+    "longitude": -79.8909362
+  },
+  {
+    "fecha": "22/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "22/1/2014",
+    "horaev": "6:45",
+    "zona": "SAUCES 7",
+    "latitude": -2.135328,
+    "longitude": -79.8905814
+  },
+  {
+    "fecha": "22/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "22/1/2014",
+    "horaev": "12:04",
+    "zona": "AYACUCHO Y CALLE NOVENA",
+    "latitude": -2.1966818,
+    "longitude": -79.8945695
+  },
+  {
+    "fecha": "22/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "7/12/2013",
+    "horaev": "22:00",
+    "zona": "AV. MACHALA",
+    "latitude": -2.184272,
+    "longitude": -79.8884781
+  },
+  {
+    "fecha": "22/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "13/1/2014",
+    "horaev": "12:30",
+    "zona": "CALLE I Y CALLE 17",
+    "latitude": -2.1964267,
+    "longitude": -79.9135059
+  },
+  {
+    "fecha": "22/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "22/1/2014",
+    "horaev": "7:00",
+    "zona": "CDLA. SIMON BOLIVAR",
+    "latitude": -2.1534532,
+    "longitude": -79.887782
+  },
+  {
+    "fecha": "22/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "21/1/2014",
+    "horaev": "19:45",
+    "zona": "VIA PERIMETRAL.",
+    "latitude": -2.1516293,
+    "longitude": -79.9464615
+  },
+  {
+    "fecha": "22/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "21/1/2014",
+    "horaev": "21:30",
+    "zona": "BASTION POPULAR",
+    "latitude": -2.0902412,
+    "longitude": -79.9276651
+  },
+  {
+    "fecha": "22/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "8/1/2014",
+    "horaev": "20:15",
+    "zona": "CALLE 22 Y GOMEZ RENDON",
+    "latitude": -2.1977374,
+    "longitude": -79.9113358
+  },
+  {
+    "fecha": "22/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "10/1/2014",
+    "horaev": "23:07",
+    "zona": "LOS VERGELES",
+    "latitude": -2.0886801,
+    "longitude": -79.9006795
+  },
+  {
+    "fecha": "22/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "18/1/2014",
+    "horaev": "15:30",
+    "zona": "VIA DAULE KM. 12.5",
+    "latitude": -2.1342477,
+    "longitude": -79.9336235
+  },
+  {
+    "fecha": "22/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "12/1/2014",
+    "horaev": "19:30",
+    "zona": "VIA PERIMETRAL.",
+    "latitude": -2.1516293,
+    "longitude": -79.9464615
+  },
+  {
+    "fecha": "22/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "21/1/2014",
+    "horaev": "16:00",
+    "zona": "VIA PERIMETRAL",
+    "latitude": -2.1516293,
+    "longitude": -79.9464615
+  },
+  {
+    "fecha": "23/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "22/1/2014",
+    "horaev": "20:00",
+    "zona": "CRISTO DEL CONSUELO",
+    "latitude": -2.2162051,
+    "longitude": -79.902128
+  },
+  {
+    "fecha": "23/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "23/1/2014",
+    "horaev": "10:00",
+    "zona": "A TRES CALLES DE LA EMBAJADA ESPANOLA",
+    "latitude": -2.1888259,
+    "longitude": -79.8969394
+  },
+  {
+    "fecha": "23/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "22/1/2014",
+    "horaev": "23:00",
+    "zona": "PORTETE Y GUERRERO VALENZUELA",
+    "latitude": -2.2048749,
+    "longitude": -79.9047532
+  },
+  {
+    "fecha": "23/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "10/1/2014",
+    "horaev": "15:30",
+    "zona": "9 DE OCTUBRE Y PICHINCHA",
+    "latitude": -2.1922999,
+    "longitude": -79.8803218
+  },
+  {
+    "fecha": "23/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "20/1/2014",
+    "horaev": "13:00",
+    "zona": "AV DE LAS AMERICAS",
+    "latitude": -2.1559318,
+    "longitude": -79.8871519
+  },
+  {
+    "fecha": "23/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "22/1/2014",
+    "horaev": "19:00",
+    "zona": "DETRAS DE SOLCA",
+    "latitude": -2.1741279,
+    "longitude": -79.8806081
+  },
+  {
+    "fecha": "24/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "22/1/2014",
+    "horaev": "21:00",
+    "zona": "SAMANES 6",
+    "latitude": -2.1088129,
+    "longitude": -79.9031776
+  },
+  {
+    "fecha": "24/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "15/1/2014",
+    "horaev": "18:00",
+    "zona": "VIA DALUE KM. 12",
+    "latitude": -2.1040544,
+    "longitude": -79.9351168
+  },
+  {
+    "fecha": "24/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "23/1/2014",
+    "horaev": "8:45",
+    "zona": "CALLE EL ORO",
+    "latitude": -2.2142743,
+    "longitude": -79.8933008
+  },
+  {
+    "fecha": "24/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "11/1/2014",
+    "horaev": "21:15",
+    "zona": "HUANCAVILCA NORTE",
+    "latitude": -2.0957868,
+    "longitude": -79.9092404
+  },
+  {
+    "fecha": "24/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "4/1/2014",
+    "horaev": "22:50",
+    "zona": "CHILE Y AZUAY",
+    "latitude": -2.2154066,
+    "longitude": -79.8884426
+  },
+  {
+    "fecha": "24/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "4/1/2014",
+    "horaev": "21:15",
+    "zona": "COOP. UNION DE BANANEROS",
+    "latitude": -2.273372,
+    "longitude": -79.8753808
+  },
+  {
+    "fecha": "24/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "23/1/2014",
+    "horaev": "14:45",
+    "zona": "AV. DEL EJERCITO Y AGUIRRE",
+    "latitude": -2.1913499,
+    "longitude": -79.8928457
+  },
+  {
+    "fecha": "24/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "24/1/2014",
+    "horaev": "0:30",
+    "zona": "ISLA TRINITARIA",
+    "latitude": -2.2402791,
+    "longitude": -79.9220686
+  },
+  {
+    "fecha": "24/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "11/1/2014",
+    "horaev": "21:00",
+    "zona": "LOMAS DE URDESA",
+    "latitude": -2.163865,
+    "longitude": -79.9066763
+  },
+  {
+    "fecha": "24/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "20/1/2014",
+    "horaev": "17:00",
+    "zona": "AV. DEL EJERCITO Y PEDRO PABLO GOMEZ",
+    "latitude": -2.1959754,
+    "longitude": -79.8943149
+  },
+  {
+    "fecha": "24/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "21/1/2014",
+    "horaev": "23:30",
+    "zona": "P ICAZA. GENERAL CORDOVA Y BAQUERIZO MORENO",
+    "latitude": -2.1908225,
+    "longitude": -79.8822267
+  },
+  {
+    "fecha": "24/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "20/1/2014",
+    "horaev": "14:00",
+    "zona": "BASTION POPULAR",
+    "latitude": -2.0902412,
+    "longitude": -79.9276651
+  },
+  {
+    "fecha": "24/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "24/1/2014",
+    "horaev": "6:30",
+    "zona": "VIA LA COSTA. KM 7.5",
+    "latitude": -2.1871326,
+    "longitude": -79.9500495
+  },
+  {
+    "fecha": "24/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "21/1/2014",
+    "horaev": "20:00",
+    "zona": "FLOR DEL FORTIN",
+    "latitude": -2.1133594,
+    "longitude": -79.9514464
+  },
+  {
+    "fecha": "24/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "20/1/2014",
+    "horaev": "17:00",
+    "zona": "VIA TERMINAL PASCUALES",
+    "latitude": -2.1400097,
+    "longitude": -79.8822623
+  },
+  {
+    "fecha": "24/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "22/1/2014",
+    "horaev": "20:20",
+    "zona": "HURTADO ENTRE JOSE MASCOTE Y GARCIA MORENO",
+    "latitude": -2.1891117,
+    "longitude": -79.8928734
+  },
+  {
+    "fecha": "24/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "23/1/2014",
+    "horaev": "19:00",
+    "zona": "10 DE AGOSTO Y GARCIA MORENO",
+    "latitude": -2.1933438,
+    "longitude": -79.8928023
+  },
+  {
+    "fecha": "24/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "24/1/2014",
+    "horaev": "10:30",
+    "zona": "FLOR DE BASTION",
+    "latitude": -2.1046521,
+    "longitude": -79.9556205
+  },
+  {
+    "fecha": "24/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "4/1/2014",
+    "horaev": "13:00",
+    "zona": "AV. QUITO Y COLON",
+    "latitude": -2.1950493,
+    "longitude": -79.8909362
+  },
+  {
+    "fecha": "24/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "14/1/2014",
+    "horaev": "6:30",
+    "zona": "CHILE Y SAN MARTIN",
+    "latitude": -2.2079522,
+    "longitude": -79.8862303
+  },
+  {
+    "fecha": "24/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "22/1/2014",
+    "horaev": "10:45",
+    "zona": "FLOR DE BASTION",
+    "latitude": -2.1046521,
+    "longitude": -79.9556205
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "26/1/2014",
+    "horaev": "18:00",
+    "zona": "MONTE SINAI",
+    "latitude": -2.1632385,
+    "longitude": -79.9224842
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "27/1/2014",
+    "horaev": "7:30",
+    "zona": "AV. 10 DE AGOSTO Y CALLE 8",
+    "latitude": -2.1951596,
+    "longitude": -79.8836721
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "16/1/2014",
+    "horaev": "19:50",
+    "zona": "CALLE 17 Y PORTETE",
+    "latitude": -2.2036415,
+    "longitude": -79.909051
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "21/1/2014",
+    "horaev": "20:55",
+    "zona": "LOS RIOS Y LUQUE",
+    "latitude": -2.1902442,
+    "longitude": -79.8947206
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "21/1/2014",
+    "horaev": "1:30",
+    "zona": "AV. JUAN TANCA MARENGO. CDLA. ADACE",
+    "latitude": -2.1470185,
+    "longitude": -79.9117245
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "19/1/2014",
+    "horaev": "2:15",
+    "zona": "CDLA. LOS VERGELES",
+    "latitude": -2.0815946,
+    "longitude": -79.8982793
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "26/1/2014",
+    "horaev": "20:30",
+    "zona": "AUTOPISTA TERMINAL PASCUALES",
+    "latitude": -2.1400097,
+    "longitude": -79.8822623
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "26/1/2014",
+    "horaev": "22:00",
+    "zona": "URDESA. GUAYACANES Y CALLE SEGUNDA",
+    "latitude": -2.1654759,
+    "longitude": -79.9099791
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "25/1/2014",
+    "horaev": "22:40",
+    "zona": "AV. 25 DE JULIO",
+    "latitude": -2.2486735,
+    "longitude": -79.8949104
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "23/1/2014",
+    "horaev": "13:45",
+    "zona": "CALLE 16 Y CALLE Q",
+    "latitude": -2.160424,
+    "longitude": -79.9292068
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "25/1/2014",
+    "horaev": "21:30",
+    "zona": "CDLA. KENNEDY NORTE",
+    "latitude": -2.156567,
+    "longitude": -79.9010784
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "20/1/2014",
+    "horaev": "20:45",
+    "zona": "CDLA. JAMBELI",
+    "latitude": -2.1370467,
+    "longitude": -79.8945768
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "16/1/2014",
+    "horaev": "20:00",
+    "zona": "PRIMERO DE MAYO Y AV. QUITO",
+    "latitude": -2.1885989,
+    "longitude": -79.8889608
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "22/1/2014",
+    "horaev": "13:30",
+    "zona": "CALLE 13 Y GOMEZ RENDON",
+    "latitude": -2.1996149,
+    "longitude": -79.9041559
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "13/12/2014",
+    "horaev": "22:00",
+    "zona": "LAS ORQUIDEAS",
+    "latitude": -2.2824041,
+    "longitude": -79.8865576
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "18/12/2013",
+    "horaev": "21:30",
+    "zona": "PORTETE Y CHILE",
+    "latitude": -2.2099476,
+    "longitude": -79.8868606
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "25/1/2014",
+    "horaev": "21:00",
+    "zona": "BASTION POPULAR",
+    "latitude": -2.0902412,
+    "longitude": -79.9276651
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "23/1/2014",
+    "horaev": "11:40",
+    "zona": "CDLA. LA FAE",
+    "latitude": -2.1731835,
+    "longitude": -79.8833634
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "26/1/2014",
+    "horaev": "4:00",
+    "zona": "LOS VERGELES",
+    "latitude": -2.0886801,
+    "longitude": -79.9006795
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "26/1/2014",
+    "horaev": "4:10",
+    "zona": "HOSPITAL LUIS VERNAZA",
+    "latitude": -2.1827562,
+    "longitude": -79.8811331
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "7/11/2013",
+    "horaev": "15:30",
+    "zona": "LAS ORQUIDEAS",
+    "latitude": -2.2824041,
+    "longitude": -79.8865576
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "26/1/2014",
+    "horaev": "19:00",
+    "zona": "VERGELES",
+    "latitude": -2.2514992,
+    "longitude": -79.8793833
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "27/1/2014",
+    "horaev": "4:00",
+    "zona": "VIA PERIMETRAL Y VIA LA COSTA",
+    "latitude": -2.1855369,
+    "longitude": -79.9517799
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "25/1/2014",
+    "horaev": "23:45",
+    "zona": "AZUAY Y LORENZO DE GARAYCOA",
+    "latitude": -2.2146303,
+    "longitude": -79.8909356
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "22/1/2014",
+    "horaev": "13:00",
+    "zona": "CDLA. KENEDDY. AV. OLIMPO",
+    "latitude": -2.1749437,
+    "longitude": -79.8966413
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "23/1/2014",
+    "horaev": "16:30",
+    "zona": "MUCHO LOTE",
+    "latitude": -2.0817392,
+    "longitude": -79.9206694
+  },
+  {
+    "fecha": "27/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "27/1/2014",
+    "horaev": "4:00",
+    "zona": "PROSPERINA",
+    "latitude": -2.1435103,
+    "longitude": -79.9388571
+  },
+  {
+    "fecha": "28/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "27/1/2014",
+    "horaev": "19:00",
+    "zona": "POR LA FACULTAD DE ODONTOLOGIA DE LA UNIVERSIDAD GUAYAQUIL",
+    "latitude": -2.1809951,
+    "longitude": -79.8970723
+  },
+  {
+    "fecha": "28/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "23/11/2013",
+    "horaev": "18:00",
+    "zona": "CERCA DEL MERCADO DE LA COOP JUAN MONTALVO",
+    "latitude": -2.1224212,
+    "longitude": -79.9186465
+  },
+  {
+    "fecha": "28/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "25/1/2014",
+    "horaev": "20:30",
+    "zona": "SUR - LA 13AVA Y FRANCISCO SEGURA",
+    "latitude": -2.2150119,
+    "longitude": -79.9076767
+  },
+  {
+    "fecha": "28/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "23/1/2014",
+    "horaev": "14:30",
+    "zona": "CENTRO COMERCIAL PARQUE CALIFORNIA",
+    "latitude": -2.1015128,
+    "longitude": -79.9371811
+  },
+  {
+    "fecha": "28/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "27/1/2014",
+    "horaev": "17:00",
+    "zona": "SUR - CALLES 41 Y LA H",
+    "latitude": -2.2192761,
+    "longitude": -79.9316438
+  },
+  {
+    "fecha": "28/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "27/1/2014",
+    "horaev": "14:00",
+    "zona": "AV DE LAS AMERICAS Y OLMEDO",
+    "latitude": -2.167657,
+    "longitude": -79.8920763
+  },
+  {
+    "fecha": "28/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "18/1/2014",
+    "horaev": "23:00",
+    "zona": "URDESA CENTRAL. CIRCUNVALACION SUR Y EBANOS",
+    "latitude": -2.1721024,
+    "longitude": -79.9101928
+  },
+  {
+    "fecha": "28/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "6/12/2013",
+    "horaev": "20:15",
+    "zona": "LA 38 Y PORTETE",
+    "latitude": -2.1993754,
+    "longitude": -79.9257234
+  },
+  {
+    "fecha": "28/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "28/1/2014",
+    "horaev": "7:15",
+    "zona": "ALEJO LASCANO Y XIMENA",
+    "latitude": -2.1864967,
+    "longitude": -79.8838348
+  },
+  {
+    "fecha": "28/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "27/1/2014",
+    "horaev": "10:30",
+    "zona": "FRENTE AL TERMINAL TERRESTRE",
+    "latitude": -2.1431266,
+    "longitude": -79.8794435
+  },
+  {
+    "fecha": "28/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "24/1/2014",
+    "horaev": "15:30",
+    "zona": "VIA DAULE. PARQUE CALIFORNIA",
+    "latitude": -2.1015128,
+    "longitude": -79.9371811
+  },
+  {
+    "fecha": "28/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "28/1/2014",
+    "horaev": "6:30",
+    "zona": "PERIMETRAL. ENTRADA DE LA 8",
+    "latitude": -2.1183964,
+    "longitude": -79.9475124
+  },
+  {
+    "fecha": "28/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "18/1/2014",
+    "horaev": "14:30",
+    "zona": "CALLES 13AVA Y ORIENTE",
+    "latitude": -2.1955472,
+    "longitude": -79.9032083
+  },
+  {
+    "fecha": "28/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "15/1/2014",
+    "horaev": "10:40",
+    "zona": "TERMINAL TERRESTE DE GUAYAQUIL",
+    "latitude": -2.1431266,
+    "longitude": -79.8794435
+  },
+  {
+    "fecha": "28/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "16/1/2014",
+    "horaev": "21:00",
+    "zona": "JOSE DE ANTEPARA Y ALEJO LASCANO",
+    "latitude": -2.1856194,
+    "longitude": -79.8896418
+  },
+  {
+    "fecha": "29/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "23/1/2014",
+    "horaev": "21:45",
+    "zona": "AMAZONAS Y ROCA",
+    "latitude": -2.1666083,
+    "longitude": -79.8960517
+  },
+  {
+    "fecha": "29/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "29/1/2014",
+    "horaev": "11:00",
+    "zona": "CDLA. VERNAZA NORTE",
+    "latitude": -2.1522715,
+    "longitude": -79.8919811
+  },
+  {
+    "fecha": "29/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "28/1/2014",
+    "horaev": "10:30",
+    "zona": "AV. ISIDRO AYORA",
+    "latitude": -2.1335447,
+    "longitude": -79.8953971
+  },
+  {
+    "fecha": "29/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "28/1/2014",
+    "horaev": "12:30",
+    "zona": "BARRIO CUBA",
+    "latitude": -2.2285263,
+    "longitude": -79.887782
+  },
+  {
+    "fecha": "29/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "28/1/2014",
+    "horaev": "23:30",
+    "zona": "CALLE 29 Y CALLE Q",
+    "latitude": -2.2114549,
+    "longitude": -79.8894111
+  },
+  {
+    "fecha": "29/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "28/1/2014",
+    "horaev": "14:45",
+    "zona": "CALLE 39 Y ARGENTINA",
+    "latitude": -2.198147,
+    "longitude": -79.9260817
+  },
+  {
+    "fecha": "29/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "28/1/2014",
+    "horaev": "19:00",
+    "zona": "FLORESTA",
+    "latitude": -2.2545943,
+    "longitude": -79.8884819
+  },
+  {
+    "fecha": "29/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "25/1/2014",
+    "horaev": "20:00",
+    "zona": "VILLA ESPANA",
+    "latitude": -2.0796052,
+    "longitude": -79.9221723
+  },
+  {
+    "fecha": "29/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "28/1/2014",
+    "horaev": "0:30",
+    "zona": "CAPITAN NAJERA Y AV. DEL EJERCITO",
+    "latitude": -2.1992022,
+    "longitude": -79.8953506
+  },
+  {
+    "fecha": "29/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "13/12/2013",
+    "horaev": "18:10",
+    "zona": "PARQUE EMPRESARIAL COLON",
+    "latitude": -2.151218,
+    "longitude": -79.9064682
+  },
+  {
+    "fecha": "30/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "29/1/2014",
+    "horaev": "13:30",
+    "zona": "LA CHALA",
+    "latitude": -2.207811,
+    "longitude": -79.9147226
+  },
+  {
+    "fecha": "30/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "29/1/2014",
+    "horaev": "13:37",
+    "zona": "VIA DAULE. MAPASINGUE",
+    "latitude": -2.1522225,
+    "longitude": -79.9314521
+  },
+  {
+    "fecha": "30/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "29/1/2014",
+    "horaev": "22:30",
+    "zona": "LOS VERGELES",
+    "latitude": -2.0886801,
+    "longitude": -79.9006795
+  },
+  {
+    "fecha": "30/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "29/1/2014",
+    "horaev": "16:45",
+    "zona": "COOP. PUEBLO Y SU REINO",
+    "latitude": -2.1622396,
+    "longitude": -79.8423078
+  },
+  {
+    "fecha": "30/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "7/1/2014",
+    "horaev": "22:00",
+    "zona": "VIA DAULE",
+    "latitude": -2.1040544,
+    "longitude": -79.9351168
+  },
+  {
+    "fecha": "30/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/1/2014",
+    "horaev": "11:20",
+    "zona": "ESCOBEDO Y TOMAS MARTINEZ",
+    "latitude": -2.1856943,
+    "longitude": -79.8820275
+  },
+  {
+    "fecha": "30/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/1/2014",
+    "horaev": "8:30",
+    "zona": "PASCUALES",
+    "latitude": -2.0709494,
+    "longitude": -79.9332613
+  },
+  {
+    "fecha": "30/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "29/1/2014",
+    "horaev": "19:15",
+    "zona": "NAHIN ISAIAS Y MIGUEL H ALCIVAR",
+    "latitude": -2.1601013,
+    "longitude": -79.8955661
+  },
+  {
+    "fecha": "30/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/1/2014",
+    "horaev": "5:00",
+    "zona": "CALLE 13 Y BOLIVIA",
+    "latitude": -2.2079747,
+    "longitude": -79.9065423
+  },
+  {
+    "fecha": "30/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "12/1/2014",
+    "horaev": "0:40",
+    "zona": "SAMANES 7",
+    "latitude": -2.1130847,
+    "longitude": -79.9094751
+  },
+  {
+    "fecha": "30/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "29/1/2014",
+    "horaev": "20:20",
+    "zona": "COOP LUZ DEL GUAYAS",
+    "latitude": -2.2359025,
+    "longitude": -79.9054944
+  },
+  {
+    "fecha": "30/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "5/1/2014",
+    "horaev": "10:00",
+    "zona": "OCTAVA ENTRE CRISTOBAL COLON Y DOMINGO SABIO",
+    "latitude": -2.2139418,
+    "longitude": -79.9033526
+  },
+  {
+    "fecha": "30/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "27/1/2014",
+    "horaev": "13:00",
+    "zona": "PASCUALES - AV CENACULO",
+    "latitude": -2.0709494,
+    "longitude": -79.9332613
+  },
+  {
+    "fecha": "31/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "25/1/2014",
+    "horaev": "10:00",
+    "zona": "PIO MONTUFAR Y SEIS DE MARZO",
+    "latitude": -2.2002945,
+    "longitude": -79.8911464
+  },
+  {
+    "fecha": "31/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/1/2014",
+    "horaev": "12:30",
+    "zona": "CENTRO COMERCIAL PARQUE CALIFORNIA",
+    "latitude": -2.1015128,
+    "longitude": -79.9371811
+  },
+  {
+    "fecha": "31/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "23/1/2014",
+    "horaev": "19:10",
+    "zona": "PIO MONTUFAR Y PEDRO CARBO",
+    "latitude": -2.2002945,
+    "longitude": -79.8911464
+  },
+  {
+    "fecha": "31/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "31/1/2014",
+    "horaev": "8:30",
+    "zona": "CALLES JUNIN Y RUMICHACA",
+    "latitude": -2.2035511,
+    "longitude": -79.8850411
+  },
+  {
+    "fecha": "31/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/1/2014",
+    "horaev": "21:30",
+    "zona": "VIA PERIMETRAL",
+    "latitude": -2.1516293,
+    "longitude": -79.9464615
+  },
+  {
+    "fecha": "31/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/1/2014",
+    "horaev": "19:30",
+    "zona": "QUITO Y VELEZ",
+    "latitude": -2.1906347,
+    "longitude": -79.8895701
+  },
+  {
+    "fecha": "31/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "29/1/2014",
+    "horaev": "22:00",
+    "zona": "PERIMETRAL. ENTRADA DE LA 8",
+    "latitude": -2.1183964,
+    "longitude": -79.9475124
+  },
+  {
+    "fecha": "31/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "5/1/2014",
+    "horaev": "20:00",
+    "zona": "MAPASINGUE",
+    "latitude": -2.1503892,
+    "longitude": -79.923151
+  },
+  {
+    "fecha": "31/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/1/2014",
+    "horaev": "19:30",
+    "zona": "LA 30AVA Y LETAMENDI",
+    "latitude": -2.1986955,
+    "longitude": -79.918743
+  },
+  {
+    "fecha": "31/1/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "28/1/2014",
+    "horaev": "21:00",
+    "zona": "FUERA DEL CENTRO COMERCIAL POLICENTRO",
+    "latitude": -2.1710965,
+    "longitude": -79.8999761
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "13/1/2014",
+    "horaev": "19:35",
+    "zona": "AUTOPISTA TERMINAL PASCUALES",
+    "latitude": -2.1400097,
+    "longitude": -79.8822623
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "1/2/2014",
+    "horaev": "19:00",
+    "zona": "TUNGURAHUA Y VELEZ",
+    "latitude": -2.189065,
+    "longitude": -79.8967967
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "10/1/2014",
+    "horaev": "17:00",
+    "zona": "BAHIA",
+    "latitude": -2.1961768,
+    "longitude": -79.8849163
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "2/2/2014",
+    "horaev": "22:30",
+    "zona": "C.C MALL DEL SUR",
+    "latitude": -2.2293577,
+    "longitude": -79.8984543
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/1/2014",
+    "horaev": "17:00",
+    "zona": "TULCAN Y HURTADO",
+    "latitude": -2.1884781,
+    "longitude": -79.894982
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "1/2/2014",
+    "horaev": "18:30",
+    "zona": "JUSTINO CORNEJO Y AV. JUAN TANCA MARENGO",
+    "latitude": -2.161278,
+    "longitude": -79.8922992
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "1/2/2014",
+    "horaev": "5:30",
+    "zona": "CALLE 16",
+    "latitude": -2.160424,
+    "longitude": -79.9292068
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/1/2014",
+    "horaev": "17:00",
+    "zona": "BASTION POPULAR",
+    "latitude": -2.0902412,
+    "longitude": -79.9276651
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "3/2/2014",
+    "horaev": "11:00",
+    "zona": "PASCUALES",
+    "latitude": -2.0709494,
+    "longitude": -79.9332613
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "31/1/2014",
+    "horaev": "18:15",
+    "zona": "UNIVERSIDAD LAICA. AV. DE LAS AMERICAS",
+    "latitude": -2.1757096,
+    "longitude": -79.8907564
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "1/2/2014",
+    "horaev": "20:32",
+    "zona": "MUCHO LOTE",
+    "latitude": -2.0817392,
+    "longitude": -79.9206694
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "3/2/2014",
+    "horaev": "15:00",
+    "zona": "JIGUAS Y ACACIAS",
+    "latitude": -2.1628999,
+    "longitude": -79.9148113
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "3/2/2014",
+    "horaev": "7:20",
+    "zona": "SAUCES 3",
+    "latitude": -2.1274633,
+    "longitude": -79.8898816
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "26/1/2014",
+    "horaev": "1:00",
+    "zona": "CDLA. LOS VERGELES",
+    "latitude": -2.0815946,
+    "longitude": -79.8982793
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "28/1/2014",
+    "horaev": "0:40",
+    "zona": "CORONEL Y EL ORO",
+    "latitude": -2.2158241,
+    "longitude": -79.8899262
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "1/2/2014",
+    "horaev": "17:15",
+    "zona": "CALLE SEPTIMA Y HUANCAVILCA",
+    "latitude": -2.1974519,
+    "longitude": -79.8969369
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "2/2/2014",
+    "horaev": "10:30",
+    "zona": "CDLA. PRADERA 2",
+    "latitude": -2.2409344,
+    "longitude": -79.8910734
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "3/2/2014",
+    "horaev": "3:00",
+    "zona": "MUCHO LOTE",
+    "latitude": -2.0817392,
+    "longitude": -79.9206694
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "2/2/2014",
+    "horaev": "0:00",
+    "zona": "BRASIL Y SEIS DE MARZO",
+    "latitude": -2.2027119,
+    "longitude": -79.8893215
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/1/2014",
+    "horaev": "19:40",
+    "zona": "CALLE 17 Y AYACUCHO",
+    "latitude": -2.1942266,
+    "longitude": -79.9061238
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "1/2/2014",
+    "horaev": "15:00",
+    "zona": "COOP. EL MIRADOR",
+    "latitude": -2.1622396,
+    "longitude": -79.8423078
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "1/2/2014",
+    "horaev": "23:00",
+    "zona": "VIA DAULE. COLEGIO DOLORES SUCRE",
+    "latitude": -2.1490132,
+    "longitude": -79.9336981
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "2/2/2014",
+    "horaev": "19:00",
+    "zona": "LAS ORQUIDEAS",
+    "latitude": -2.2824041,
+    "longitude": -79.8865576
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "3/2/2014",
+    "horaev": "13:30",
+    "zona": "JUNIN Y PANAMA",
+    "latitude": -2.1903083,
+    "longitude": -79.8796799
+  },
+  {
+    "fecha": "3/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "2/2/2014",
+    "horaev": "22:30",
+    "zona": "ESMERALDAS Y GOMEZ RENDON",
+    "latitude": -2.2013779,
+    "longitude": -79.8974099
+  },
+  {
+    "fecha": "4/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "2/2/2014",
+    "horaev": "4:00",
+    "zona": "PORTETE Y ANTEPARA",
+    "latitude": -2.1400206,
+    "longitude": -79.8801149
+  },
+  {
+    "fecha": "4/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "4/2/2014",
+    "horaev": "8:15",
+    "zona": "SAUCES 2",
+    "latitude": -2.1389376,
+    "longitude": -79.887782
+  },
+  {
+    "fecha": "4/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "3/2/2014",
+    "horaev": "19:30",
+    "zona": "GOMEZ RENDON Y LOS RIOS",
+    "latitude": -2.2011609,
+    "longitude": -79.8981252
+  },
+  {
+    "fecha": "4/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "11/1/2014",
+    "horaev": "10:30",
+    "zona": "MACHALA Y EL ORO",
+    "latitude": -2.2124934,
+    "longitude": -79.8971886
+  },
+  {
+    "fecha": "4/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "3/2/2014",
+    "horaev": "15:00",
+    "zona": "CDLA. URBASUR",
+    "latitude": -2.166618,
+    "longitude": -79.9450618
+  },
+  {
+    "fecha": "4/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "2/2/2014",
+    "horaev": "16:00",
+    "zona": "VIA PERIMETRAL.",
+    "latitude": -2.1516293,
+    "longitude": -79.9464615
+  },
+  {
+    "fecha": "4/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "3/2/2014",
+    "horaev": "8:50",
+    "zona": "ALCEDO Y CALLE 18",
+    "latitude": -2.1955447,
+    "longitude": -79.8927304
+  },
+  {
+    "fecha": "4/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "3/2/2014",
+    "horaev": "23:20",
+    "zona": "CDLA. LAS ORQUIDEAS",
+    "latitude": -2.2824041,
+    "longitude": -79.8865576
+  },
+  {
+    "fecha": "4/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "1/1/2014",
+    "horaev": "5:37",
+    "zona": "AV. DEL BOMBERO",
+    "latitude": -2.1761548,
+    "longitude": -79.9425669
+  },
+  {
+    "fecha": "4/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "2/2/2014",
+    "horaev": "6:00",
+    "zona": "BASTION POPULAR",
+    "latitude": -2.0902412,
+    "longitude": -79.9276651
+  },
+  {
+    "fecha": "4/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "3/2/2014",
+    "horaev": "5:45",
+    "zona": "MUCHO LOTE",
+    "latitude": -2.0817392,
+    "longitude": -79.9206694
+  },
+  {
+    "fecha": "4/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "2/2/2014",
+    "horaev": "2:22",
+    "zona": "PADRE SOLANO",
+    "latitude": -2.1869908,
+    "longitude": -79.8861368
+  },
+  {
+    "fecha": "4/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "3/2/2014",
+    "horaev": "6:30",
+    "zona": "AV. FRANCISCO DE ORELLANA",
+    "latitude": -2.1021065,
+    "longitude": -79.9104041
+  },
+  {
+    "fecha": "4/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "31/1/2014",
+    "horaev": "17:00",
+    "zona": "MUCHO LOTE",
+    "latitude": -2.0817392,
+    "longitude": -79.9206694
+  },
+  {
+    "fecha": "4/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "23/1/2013",
+    "horaev": "23:15",
+    "zona": "ORQUIDEAS",
+    "latitude": -2.2824041,
+    "longitude": -79.8865576
+  },
+  {
+    "fecha": "5/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "2/2/2014",
+    "horaev": "4:00",
+    "zona": "PADRE SOLANO Y PEDRO MOINCAYO",
+    "latitude": -2.1867386,
+    "longitude": -79.8874753
+  },
+  {
+    "fecha": "5/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "14/11/2013",
+    "horaev": "13:00",
+    "zona": "URDESA. CIRCUNVALACION E HIGUERAS",
+    "latitude": -2.164457,
+    "longitude": -79.9123134
+  },
+  {
+    "fecha": "5/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "27/1/2014",
+    "horaev": "19:00",
+    "zona": "9 DE OCTUBRE Y PEDRO CARBO",
+    "latitude": -2.1920526,
+    "longitude": -79.8812318
+  },
+  {
+    "fecha": "5/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "14/10/2013",
+    "horaev": "13:00",
+    "zona": "CALLE 27AVA Y LA A",
+    "latitude": -2.2095369,
+    "longitude": -79.8909914
+  },
+  {
+    "fecha": "5/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "30/1/2014",
+    "horaev": "16:00",
+    "zona": "CALLE LOS RIOS Y AYACUCHO",
+    "latitude": -2.1963077,
+    "longitude": -79.8965886
+  },
+  {
+    "fecha": "5/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "1/2/2014",
+    "horaev": "22:00",
+    "zona": "FRENTE A PUERTO AZUL - KM 10 1/2 VIA A LA COSTA",
+    "latitude": -2.1871213,
+    "longitude": -79.9670057
+  },
+  {
+    "fecha": "5/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "4/2/2014",
+    "horaev": "16:40",
+    "zona": "LA FLORIDA - POR LA ACADEMIA NAVAL ILLINWORTH",
+    "latitude": -2.1283312,
+    "longitude": -79.9297637
+  },
+  {
+    "fecha": "5/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "5/2/2014",
+    "horaev": "13:30",
+    "zona": "PUENTE PEATONAL DEL TERMINAL TERRESTRE RIO DAULE",
+    "latitude": -2.1431266,
+    "longitude": -79.8794435
+  },
+  {
+    "fecha": "5/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "1/1/2014",
+    "horaev": "22:00",
+    "zona": "CUASMO SUR - COOP EL CONDOR",
+    "latitude": -2.273372,
+    "longitude": -79.8753808
+  },
+  {
+    "fecha": "5/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "18/1/2011",
+    "horaev": "11:00",
+    "zona": "POR EL CC SAN MARINO",
+    "latitude": -2.1166681,
+    "longitude": -79.906733
+  },
+  {
+    "fecha": "5/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "4/2/2014",
+    "horaev": "17:20",
+    "zona": "MUCHO LOTE",
+    "latitude": -2.0817392,
+    "longitude": -79.9206694
+  },
+  {
+    "fecha": "5/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "5/2/2014",
+    "horaev": "11:15",
+    "zona": "JOSE MARIA EGAS Y BAQUERIZO NAZUR",
+    "latitude": -2.1394544,
+    "longitude": -79.8983989
+  },
+  {
+    "fecha": "5/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "3/2/2014",
+    "horaev": "21:00",
+    "zona": "PORTETE Y LA 17AVA",
+    "latitude": -2.2036415,
+    "longitude": -79.909051
+  },
+  {
+    "fecha": "5/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "4/2/2014",
+    "horaev": "19:30",
+    "zona": "CHIMBORAZO ENTRE SUCRE Y COLON",
+    "latitude": -2.1966482,
+    "longitude": -79.8840356
+  },
+  {
+    "fecha": "6/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "28/1/2014",
+    "horaev": "14:15",
+    "zona": "PADRE SOLANO Y XIMENA",
+    "latitude": -2.1874999,
+    "longitude": -79.8839655
+  },
+  {
+    "fecha": "6/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "5/2/2014",
+    "horaev": "7:30",
+    "zona": "CDLA ALBORADA 13VA ETAPA",
+    "latitude": -2.1221102,
+    "longitude": -79.9031776
+  },
+  {
+    "fecha": "6/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "4/2/2014",
+    "horaev": "5:40",
+    "zona": "JULIAN CORONEL Y CORDOVA",
+    "latitude": -2.1848095,
+    "longitude": -79.8792382
+  },
+  {
+    "fecha": "6/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "4/1/2014",
+    "horaev": "15:30",
+    "zona": "LIZARDO GARCIA Y CHAMBERS",
+    "latitude": -2.2140224,
+    "longitude": -79.9053846
+  },
+  {
+    "fecha": "6/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "5/2/2014",
+    "horaev": "20:00",
+    "zona": "29 Y PORTETE",
+    "latitude": -2.2011418,
+    "longitude": -79.9186731
+  },
+  {
+    "fecha": "6/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "6/2/2014",
+    "horaev": "1:00",
+    "zona": "PARQUE CENTENARIO",
+    "latitude": -2.1898193,
+    "longitude": -79.8877164
+  },
+  {
+    "fecha": "7/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "6/2/2014",
+    "horaev": "19:00",
+    "zona": "MUCHO LOTE",
+    "latitude": -2.0817392,
+    "longitude": -79.9206694
+  },
+  {
+    "fecha": "7/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "7/2/2014",
+    "horaev": "11:45",
+    "zona": "CALLE 25 Y CALLE A",
+    "latitude": -2.087498,
+    "longitude": -79.9254026
+  },
+  {
+    "fecha": "7/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "6/2/2014",
+    "horaev": "20:00",
+    "zona": "SAUCES 9",
+    "latitude": -2.1323186,
+    "longitude": -79.8926809
+  },
+  {
+    "fecha": "7/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "28/1/2014",
+    "horaev": "10:00",
+    "zona": "AV. 25 DE JULIO",
+    "latitude": -2.2486735,
+    "longitude": -79.8949104
+  },
+  {
+    "fecha": "7/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "5/2/2014",
+    "horaev": "14:30",
+    "zona": "CALLE 15 Y CRISTOBAL COLON",
+    "latitude": -2.1925041,
+    "longitude": -79.9038239
+  },
+  {
+    "fecha": "7/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "6/2/2014",
+    "horaev": "7:45",
+    "zona": "VIA PERIMETRAL. AV. 25 DE JULIO",
+    "latitude": -2.2397464,
+    "longitude": -79.9192045
+  },
+  {
+    "fecha": "7/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "5/2/2014",
+    "horaev": "19:30",
+    "zona": "PASCUALES",
+    "latitude": -2.0709494,
+    "longitude": -79.9332613
+  },
+  {
+    "fecha": "7/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "6/2/2014",
+    "horaev": "19:30",
+    "zona": "PRIMERO DE MAYO ENTRE ESMERALDAS Y LOS RIOS",
+    "latitude": -2.1874043,
+    "longitude": -79.8931456
+  },
+  {
+    "fecha": "7/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "5/2/2014",
+    "horaev": "0:01",
+    "zona": "AV. 9 DE OCTUBRE Y TUNGURAHUA",
+    "latitude": -2.1869916,
+    "longitude": -79.8961498
+  },
+  {
+    "fecha": "7/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "7/2/2014",
+    "horaev": "12:00",
+    "zona": "CALLE 15 Y GOMEZ RENDON",
+    "latitude": -2.1992301,
+    "longitude": -79.9057103
+  },
+  {
+    "fecha": "7/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "31/1/2014",
+    "horaev": "13:31",
+    "zona": "COOP. UNION DE BANANEROS",
+    "latitude": -2.273372,
+    "longitude": -79.8753808
+  },
+  {
+    "fecha": "7/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "5/2/2014",
+    "horaev": "9:20",
+    "zona": "AV. JUAN TANCA MARENGO C.C MALL DEL SOL",
+    "latitude": -2.1470185,
+    "longitude": -79.9117245
+  },
+  {
+    "fecha": "7/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "4/2/2014",
+    "horaev": "20:30",
+    "zona": "CDLA. MARTHA DE ROLDOS",
+    "latitude": -2.162213,
+    "longitude": -79.9270863
+  },
+  {
+    "fecha": "7/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "6/2/2014",
+    "horaev": "23:30",
+    "zona": "AGUIRRE ENTRE BOYACA Y GARCIA AVILES",
+    "latitude": -2.1954353,
+    "longitude": -79.8855292
+  },
+  {
+    "fecha": "10/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "10/2/2014",
+    "horaev": "2:30",
+    "zona": "ISLA TRINITARIA",
+    "latitude": -2.2402791,
+    "longitude": -79.9220686
+  },
+  {
+    "fecha": "10/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "9/2/2014",
+    "horaev": "20:15",
+    "zona": "ALBORADA",
+    "latitude": -2.1255594,
+    "longitude": -79.9039271
+  },
+  {
+    "fecha": "10/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "8/2/2014",
+    "horaev": "3:30",
+    "zona": "CALLE 36 Y ARGENTINA",
+    "latitude": -2.1987813,
+    "longitude": -79.923719
+  },
+  {
+    "fecha": "10/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "10/2/2014",
+    "horaev": "10:15",
+    "zona": "AV. JUAN TANCA MARENGO",
+    "latitude": -2.1470185,
+    "longitude": -79.9117245
+  },
+  {
+    "fecha": "10/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "7/2/2014",
+    "horaev": "7:20",
+    "zona": "AV. FRANCISCO DE ORELLANA",
+    "latitude": -2.1021065,
+    "longitude": -79.9104041
+  },
+  {
+    "fecha": "10/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "8/2/2014",
+    "horaev": "15:00",
+    "zona": "CALLE TNTE LEDESMA Y ALCEDO ESQUINA",
+    "latitude": -2.1930986,
+    "longitude": -79.904564
+  },
+  {
+    "fecha": "10/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "10/2/2014",
+    "horaev": "11:00",
+    "zona": "MERCADO DE LA ISLA TRINITARIA",
+    "latitude": -2.2360943,
+    "longitude": -79.9195325
+  },
+  {
+    "fecha": "10/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "1/2/2014",
+    "horaev": "18:00",
+    "zona": "CALLE J ENTRE LA 17 Y LA 18",
+    "latitude": -2.1988075,
+    "longitude": -79.9073066
+  },
+  {
+    "fecha": "10/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "8/2/2014",
+    "horaev": "11:30",
+    "zona": "CERRO SANTA ANA",
+    "latitude": -2.1811705,
+    "longitude": -79.877618
+  },
+  {
+    "fecha": "10/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "7/2/2014",
+    "horaev": "17:00",
+    "zona": "GUERRERO MARTINEZ Y CALICUCHIMA",
+    "latitude": -2.2007171,
+    "longitude": -79.9062172
+  },
+  {
+    "fecha": "10/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "8/2/2014",
+    "horaev": "11:30",
+    "zona": "LOS VERGELES",
+    "latitude": -2.0886801,
+    "longitude": -79.9006795
+  },
+  {
+    "fecha": "11/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "11/2/2014",
+    "horaev": "9:50",
+    "zona": "CALLES JOSE MASCOTE Y 9 DE OCTUBRE",
+    "latitude": -2.1989993,
+    "longitude": -79.8960073
+  },
+  {
+    "fecha": "11/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "10/2/2014",
+    "horaev": "14:30",
+    "zona": "CERCA DEL HOTEL RAMADA",
+    "latitude": -2.188645,
+    "longitude": -79.87852
+  },
+  {
+    "fecha": "11/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "10/2/2014",
+    "horaev": "12:20",
+    "zona": "CDLA MARTHA DE ROLDOS",
+    "latitude": -2.2810863,
+    "longitude": -79.8855789
+  },
+  {
+    "fecha": "11/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "10/2/2014",
+    "horaev": "12:45",
+    "zona": "CALLES 19 Y LA G",
+    "latitude": -2.1335165,
+    "longitude": -79.9042065
+  },
+  {
+    "fecha": "11/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "6/2/2014",
+    "horaev": "19:45",
+    "zona": "SAUCES 9 MZ R29 V 4",
+    "latitude": -2.1308943,
+    "longitude": -79.8921805
+  },
+  {
+    "fecha": "11/2/2014",
+    "delito": "ROBO AGRAVADO",
+    "fechaev": "7/2/2014",
+    "horaev": "12:30",
+    "zona": "PARQUEADEROS DEL SECTOR PUERTO SANTA ANA",
+    "latitude": -2.1791406,
+    "longitude": -79.8757055
+  }
+]

@@ -1,0 +1,214 @@
+{"Terminal":[{
+     "nombre":"Terminal Terrestre de Guayaquil",
+	 "Cooperativa":[
+	   {"Telefono":"(593) 4 2 130 642",
+	    "nombreCooperativa":"Tramsporte Esmeralda",
+		"InformacionGeneral":[
+		{"valor":"$11","Ruta":"Esmeralda - Quito", "NumAsiento":35},
+		{"valor":"$11.75","Ruta":"Esmeralda - Guayaquil", "NumAsiento":30},
+		{"valor":"$11","Ruta":"Esmeralda - Manta", "NumAsiento":25},
+		{"valor":"$17","Ruta":"Esmeralda - Machala", "NumAsiento":25},
+		{"valor":"$19","Ruta":"Esmeralda - Cuenca", "NumAsiento":32}
+	    ]
+	   },
+		{"Telefono":"(593 – 4) 2 130649",
+	    "nombreCooperativa":"Flota Imbabura",
+		"InformacionGeneral":[
+		{"valor":"$11","Ruta":"Quito - Guayaquil", "NumAsiento":35},
+		{"valor":"$6","Ruta":"Quito - Ibarra", "NumAsiento":30},
+		{"valor":"$10","Ruta":"Quito - Tulcan", "NumAsiento":25},
+		{"valor":"$12","Ruta":"Esmeralda - Cuenca", "NumAsiento":25},
+		{"valor":"$7","Ruta":"Guayaquil - Manta", "NumAsiento":32}
+	    ]
+		},
+		{"Telefono":"(593)4 2130265",
+	    "nombreCooperativa":"Tramsporte Baños",
+		"InformacionGeneral":[
+		{"valor":"$10","Ruta":"Baños - Guayaquil", "NumAsiento":35},
+		{"valor":"$10","Ruta":"Baños - Cuenca", "NumAsiento":30},
+		{"valor":"$7","Ruta":"Baños - Quito", "NumAsiento":25},
+		{"valor":"$5","Ruta":"Baños - Tena", "NumAsiento":25},
+		{"valor":"$2","Ruta":"Baños - Riobamba", "NumAsiento":32}
+	    ]
+		},
+		{"Telefono":"(593)4 2130265",
+	    "nombreCooperativa":"Panamericana Internacional",
+		"InformacionGeneral":[
+		{"valor":"$9","Ruta":"Quito - Cuenca", "NumAsiento":35},
+		{"valor":"$10","Ruta":"Quito - Babahoyo", "NumAsiento":30},
+		{"valor":"$11","Ruta":"Esmeralda - Guayaquil", "NumAsiento":25},
+		{"valor":"$11","Ruta":"Manta - Quito", "NumAsiento":30},
+		{"valor":"$11","Ruta":"Esmeralda - Quito", "NumAsiento":30},
+		{"valor":"$12","Ruta":"Quito - Guayaquil", "NumAsiento":30},
+		{"valor":"$13","Ruta":"Portoviejo - Quito", "NumAsiento":25},
+		{"valor":"$14","Ruta":"Tulcan - Huaquillas", "NumAsiento":32}
+	    ]
+		}
+		
+	  ]
+	 },
+	 {
+     "nombre":"Terminal Terrestre de Cuenca",
+	 "Cooperativa":[
+	   {"Telefono":"(593)7-32521061",
+	    "nombreCooperativa":"Tramsporte Santana",
+		"InformacionGeneral":[
+		{"valor":"$14","Ruta":"Ambato - Cariamanga", "NumAsiento":35},
+		{"valor":"$13","Ruta":"Ambato - Cuenca", "NumAsiento":35},
+		{"valor":"$12","Ruta":"Ambato - Machala", "NumAsiento":30},
+		{"valor":"$11","Ruta":"Ambato - Guayaquil", "NumAsiento":30},
+		{"valor":"$10","Ruta":"Ambato - Huaquillas", "NumAsiento":25},
+		{"valor":"$6","Ruta":"Ambato - Quito", "NumAsiento":32}
+	    ]
+	   },
+		{"Telefono":"(593)7-2862887",
+	    "nombreCooperativa":"Tramsporte Rutas Orense",
+		"InformacionGeneral":[
+		{"valor":"$4","Ruta":"Machala - Pasaje", "NumAsiento":35},
+		{"valor":"$8","Ruta":"Machala -  Cuenca", "NumAsiento":30},
+		{"valor":"$10","Ruta":"Guayaquil -  Santa Rosa", "NumAsiento":25},
+		{"valor":"$17","Ruta":"Machala - Guayaquil", "NumAsiento":25},
+		{"valor":"$19","Ruta":"Guayaquil -  Huaquillas", "NumAsiento":32},
+		{"valor":"$19","Ruta":"Guayaquil -  Pasajes", "NumAsiento":32}
+	    ]
+		}
+	  ]
+	 },
+	 	 {
+     "nombre":"Terminal Terrestre de Machala",
+	 "Cooperativa":[
+	   {"Telefono":"(593) 7 2 938 147",
+	    "nombreCooperativa":"Tramsporte Esmeralda",
+		"InformacionGeneral":[
+		{"valor":"$11","Ruta":"Esmeralda - Quito", "NumAsiento":35},
+		{"valor":"$11.75","Ruta":"Esmeralda - Guayaquil", "NumAsiento":30},
+		{"valor":"$11","Ruta":"Esmeralda - Manta", "NumAsiento":25},
+		{"valor":"$17","Ruta":"Esmeralda - Machala", "NumAsiento":25},
+		{"valor":"$19","Ruta":"Esmeralda - Cuenca", "NumAsiento":32}
+	    ]
+	   },
+		{"Telefono":"(593) 7 2937202",
+	    "nombreCooperativa":"Santana",
+		"InformacionGeneral":[
+		{"valor":"$14","Ruta":"Ambato - Cariamanga", "NumAsiento":35},
+		{"valor":"$13","Ruta":"Ambato - Cuenca", "NumAsiento":35},
+		{"valor":"$12","Ruta":"Ambato - Machala", "NumAsiento":30},
+		{"valor":"$11","Ruta":"Ambato - Guayaquil", "NumAsiento":30},
+		{"valor":"$10","Ruta":"Ambato - Huaquillas", "NumAsiento":25},
+		{"valor":"$6","Ruta":"Ambato - Quito", "NumAsiento":32}
+	    ]
+		},
+		{"Telefono":"(593)7 2844688 ",
+	    "nombreCooperativa":"Tramsporte Loja",
+		"InformacionGeneral":[
+		{"valor":"$7.5","Ruta":"Cuenca -  Loja", "NumAsiento":35},
+		{"valor":"$9","Ruta":"Machala - Loja", "NumAsiento":30},
+		{"valor":"$10","Ruta":"Loja -  Guayaquil", "NumAsiento":25},
+		{"valor":"$17","Ruta":"Loja -  Quito", "NumAsiento":25}
+	    ]
+		}
+	  ]
+	 },
+	 {
+     "nombre":"Terminal Terrestre de Ambato",
+	 "Cooperativa":[
+	   {"Telefono":"(593) 8 533 9214",
+	    "nombreCooperativa":"Tramsporte Esmeralda",
+		"InformacionGeneral":[
+		{"valor":"$11","Ruta":"Esmeralda - Quito", "NumAsiento":35},
+		{"valor":"$11.75","Ruta":"Esmeralda - Guayaquil", "NumAsiento":30},
+		{"valor":"$11","Ruta":"Esmeralda - Manta", "NumAsiento":25},
+		{"valor":"$17","Ruta":"Esmeralda - Machala", "NumAsiento":25},
+		{"valor":"$19","Ruta":"Esmeralda - Cuenca", "NumAsiento":32}
+	    ]
+	   },
+		{"Telefono":"(593) 3 274 0415",
+	    "nombreCooperativa":"Tramsporte Baños",
+		"InformacionGeneral":[
+		{"valor":"$10","Ruta":"Baños - Guayaquil", "NumAsiento":35},
+		{"valor":"$10","Ruta":"Baños - Cuenca", "NumAsiento":30},
+		{"valor":"$7","Ruta":"Baños - Quito", "NumAsiento":25},
+		{"valor":"$5","Ruta":"Baños - Tena", "NumAsiento":25},
+		{"valor":"$2","Ruta":"Baños - Riobamba", "NumAsiento":32}
+	    ]
+		},
+		{"Telefono":"(593) 4 2 130 642",
+	    "nombreCooperativa":"Tramsporte Reina del Camino",
+		"InformacionGeneral":[
+		{"valor":"$11","Ruta":"Manta - Quito", "NumAsiento":35},
+		{"valor":"$6","Ruta":"Manta - Guayaquil", "NumAsiento":30},
+		{"valor":"$11","Ruta":"Portoviejo - Quito", "NumAsiento":25},
+		{"valor":"$11","Ruta":"Manta - Esmeralda", "NumAsiento":25},
+		{"valor":"$14","Ruta":"Ambato - Manta", "NumAsiento":32},
+		{"valor":"$10","Ruta":"Quito - Pedernales", "NumAsiento":32}
+	    ]
+		}
+	  ]
+	 },
+	 {
+     "nombre":"Terminal Terrestre de Ibarra",
+	 "Cooperativa":[
+	   {"Telefono":"(593) 6 2472751",
+	    "nombreCooperativa":"Flota Imbabura",
+		"InformacionGeneral":[
+		{"valor":"$11","Ruta":"Quito -	 Guayaquil", "NumAsiento":35},
+		{"valor":"$6","Ruta":"Quito - Ibarra", "NumAsiento":30},
+		{"valor":"$10","Ruta":"Quito - Tulcan", "NumAsiento":25},
+		{"valor":"$12","Ruta":"Quito - Cuenca", "NumAsiento":25},
+		{"valor":"$7","Ruta":"Guayaquil - Manta", "NumAsiento":32}
+	    ]
+	   },
+		{"Telefono":"(593) 6 2476410",
+	    "nombreCooperativa":"Tramsporte Esmeralda",
+		"InformacionGeneral":[
+		{"valor":"$11","Ruta":"Esmeralda - Quito", "NumAsiento":35},
+		{"valor":"$11.75","Ruta":"Esmeralda - Guayaquil", "NumAsiento":30},
+		{"valor":"$11","Ruta":"Esmeralda - Manta", "NumAsiento":25},
+		{"valor":"$17","Ruta":"Esmeralda - Machala", "NumAsiento":25},
+		{"valor":"$19","Ruta":"Esmeralda - Cuenca", "NumAsiento":32}
+	    ]
+		}
+	  ]
+	 },
+	 {
+     "nombre":"Terminal Terrestre de Portoviejo",
+	 "Cooperativa":[
+	   {"Telefono":"(593) 5 2930986",
+	    "nombreCooperativa":"Tramsporte Esmeralda",
+		"InformacionGeneral":[
+		{"valor":"$11","Ruta":"Esmeralda - Quito", "NumAsiento":35},
+		{"valor":"$11.75","Ruta":"Esmeralda - Guayaquil", "NumAsiento":30},
+		{"valor":"$11","Ruta":"Esmeralda - Manta", "NumAsiento":25},
+		{"valor":"$17","Ruta":"Esmeralda - Machala", "NumAsiento":25},
+		{"valor":"$19","Ruta":"Esmeralda - Cuenca", "NumAsiento":32}
+	    ]
+	   },
+		{"Telefono":"(593) 5 2930986",
+	    "nombreCooperativa":"Tramsporte Coactur",
+		"InformacionGeneral":[
+		{"valor":"$13","Ruta":"Portoviejo - Quito", "NumAsiento":35},
+		{"valor":"$10","Ruta":"Portoviejo - Guayaquil", "NumAsiento":30},
+		{"valor":"$6","Ruta":"Portoviejo - Jama", "NumAsiento":25},
+		{"valor":"$5","Ruta":"Portoviejo - Jipijapa", "NumAsiento":25},
+		{"valor":"$4","Ruta":"Portoviejo - Manta", "NumAsiento":32},
+		{"valor":"$4","Ruta":"Portoviejo - Montecrispi", "NumAsiento":32}
+	    ]
+		},
+		{"Telefono":"(593) 4 2 130 642",
+	    "nombreCooperativa":"Tramsporte Zaracay",
+		"InformacionGeneral":[
+		{"valor":"$3.50","Ruta":"Santo Domingo - Quito", "NumAsiento":35},
+		{"valor":"$6.80","Ruta":"Santo Domingo - Guayaquil", "NumAsiento":30},
+		{"valor":"$4.50","Ruta":"Santo Domingo - Esmeralda", "NumAsiento":25},
+		{"valor":"$14.80","Ruta":"Santo Domingo - Shushufundi", "NumAsiento":25},
+		{"valor":"$16","Ruta":"Santo Domingo - El coca", "NumAsiento":32},
+		{"valor":"$7","Ruta":"Santo Domingo - Manta", "NumAsiento":32},
+		{"valor":"$5","Ruta":"Santo Domingo - Pedernales", "NumAsiento":32},
+		{"valor":"$18","Ruta":"Santo Domingo - Loja", "NumAsiento":32}
+	    ]
+		}
+	  ]
+	 }
+	 
+	 
+]}

@@ -1,0 +1,20 @@
+{"estudiante1":[
+{"nombre":"Pepito","apellido":"Campaña","matricula":201014858, 
+"materia":[{"nombre":"Redes de datos","creditos":10,"calificacion":80},
+{"nombre":"Base de datos","creditos":12,"calificacion":90},
+{"nombre":"Calculo","creditos":20,"calificacion":90},
+{"nombre":"Estadistica","creditos":10,"calificacion":85}
+]
+}
+],
+
+"estudiante2":[
+{"nombre":"Juanito","apellido":"Ortiz","matricula":201114858, 
+"materia":[{"nombre":"Redes de datos","creditos":10,"calificacion":95},
+{"nombre":"Base de datos","creditos":12,"calificacion":92},
+{"nombre":"Calculo","creditos":20,"calificacion":91},
+{"nombre":"Estadistica","creditos":10,"calificacion":80}
+]
+}
+]
+}

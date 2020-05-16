@@ -1,0 +1,66 @@
+.titulo {
+    
+    background-color: lightgrey;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    margin-top: 3em;
+    margin-left: 28em;
+    margin-bottom: 3em;
+    }
+
+.general {
+    
+    background-color: lightgrey;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    margin-top: 1em;
+    margin-left: 10em;
+    margin-bottom: 2em;
+
+    }
+.rayado {
+    background-color: rgb(208, 211, 62);
+    line-height: 30px;
+    }
+
+.rayado2 {
+    background-color: peru;
+    font-weight: bold;
+    line-height: 30px;
+
+
+}
+
+
+
+
+table {
+    width: 400px;
+    margin: 0 auto;
+    text-align: left;
+    text-align: center;
+  }
+  
+  thead, tbody {
+    display: block;
+    width: 100%;
+  }
+  
+  tbody{
+      max-height: 100px;
+      overflow-y: auto;
+  }
+  
+  tbody tr, thead tr {
+    width: 100%;
+  }
+  
+  tbody td, thead th {
+      width: 80px;  /* Optional */
+  } 
+
+  

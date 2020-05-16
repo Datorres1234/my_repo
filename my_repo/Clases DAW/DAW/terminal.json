@@ -1,0 +1,97 @@
+{"Terminal":
+[
+	{"nombre":"Terminal Terrestre de Guayaquil",
+	 "Cooperativa":[ 
+	  {"Telefono":"(593) 4 2 130 642",
+	    "nombreCooperativa":"Tramsporte Esmeralda",
+	    "InformacionGeneral":[
+		{"valor":"$11","Ruta":"Esmeralda - Quito", "NumAsiento":35},
+		{"valor":"$11.75","Ruta":"Esmeralda - Guayaquil", "NumAsiento":30},
+		{"valor":"$11","Ruta":"Esmeralda - Manta", "NumAsiento":25},
+		{"valor":"$17","Ruta":"Esmeralda - Machala", "NumAsiento":25},
+		{"valor":"$19","Ruta":"Esmeralda - Cuenca", "NumAsiento":32}
+	    ]
+	  },
+	   
+	 }
+	 
+	 ]
+	},
+	
+	   
+	   
+ ]
+}
+	   
+	   
+	   
+	   
+	{"nombreCooperativa":"Tramsporte Ecuador","valor":"$11","Ruta":"Esmeralda - Quito", "NumAsiento":35,
+	{"nombreCooperativa":"Tramsporte Ecuador","valor":"$11","Ruta":"Esmeralda - Quito", "NumAsiento":35,
+	{"nombreCooperativa":"Tramsporte Ecuador","valor":"$11","Ruta":"Esmeralda - Quito", "NumAsiento":35,
+	{"nombreCooperativa":"Tramsporte Ecuador","valor":"$11","Ruta":"Esmeralda - Quito", "NumAsiento":35,
+	]
+	}
+	],
+	[
+	{"nombreDestino":"Cuenca","valor":8,
+	"Cooperativa":[
+	{"nombreCooperativa":"SuperTaxi Cuenca","Horario":[{"Hora":"0:00"},{"Hora":"2:00"},{"Hora":"3:30"},{"Hora":"5:30"}]},
+	{"nombreCooperativa":"Express Sucre","Horario":[{"Hora":"1:30"},{"Hora":"2:40"},{"Hora":"3:30"},{"Hora":"4:40"}]},
+	{"nombreCooperativa":"Turismo Oriental","Horario":[{"Hora":"7:30"},{"Hora":"8:30"},{"Hora":"10:00"},{"Hora":"11:45"}]},
+	{"nombreCooperativa":"AeroTaxi","Horario":[{"Hora":"12:00"},{"Hora":"13:30"},{"Hora":"16:30"},{"Hora":"18:00"}]}
+	]
+	}
+	],
+	[
+	{"nombreDestino":"Ambato","valor":7,
+	"Cooperativa":[
+	{"nombreCooperativa":"Chimborazo","Horario":[{"Hora":"5:30"},{"Hora":"7:30"},{"Hora":"11:00"},{"Hora":"16:30"}]},
+	{"nombreCooperativa":"El Dorado","Horario":[{"Hora":"2:30"},{"Hora":"7:40"},{"Hora":"9:30"},{"Hora":"12:40"}]},
+	{"nombreCooperativa":"Flota Pelileo","Horario":[{"Hora":"8:40"},{"Hora":"11:30"},{"Hora":"13:00"},{"Hora":"16:45"}]},
+	{"nombreCooperativa":"TransAndina Express","Horario":[{"Hora":"10:15"},{"Hora":"12:15"},{"Hora":"15:30"},{"Hora":"19:00"}]}
+	]
+	}
+	],
+	[
+	{"nombreDestino":"Esmeralda","valor":12,
+	"Cooperativa":[
+	{"nombreCooperativa":"AeroTaxi","Horario":[{"Hora":"9:30"},{"Hora":"11:30"},{"Hora":"14:00"},{"Hora":"17:30"}]},
+	{"nombreCooperativa":"Occidentales","Horario":[{"Hora":"2:30"},{"Hora":"7:40"},{"Hora":"9:30"},{"Hora":"12:40"}]},
+	{"nombreCooperativa":"Panamerica","Horario":[{"Hora":"12:40"},{"Hora":"15:30"},{"Hora":"19:00"},{"Hora":"21:45"}]},
+	{"nombreCooperativa":"Trans Esmeralda","Horario":[{"Hora":"11:15"},{"Hora":"14:15"},{"Hora":"17:30"},{"Hora":"19:00"}]}
+	]
+	}
+	],
+	[
+	{"nombreDestino":"Guaranda","valor":5,
+	"Cooperativa":[
+	{"nombreCooperativa":"Caluma","Horario":[{"Hora":"3:30"},{"Hora":"5:30"},{"Hora":"10:00"},{"Hora":"16:30"}]},
+	{"nombreCooperativa":"Express Atenas","Horario":[{"Hora":"7:30"},{"Hora":"10:40"},{"Hora":"13:30"},{"Hora":"15:40"}]},
+	{"nombreCooperativa":"Flota Bolivar2","Horario":[{"Hora":"5:40"},{"Hora":"12:30"},{"Hora":"15:00"},{"Hora":"17:45"}]},
+	{"nombreCooperativa":"San Pedrito","Horario":[{"Hora":"08:15"},{"Hora":"10:45"},{"Hora":"14:30"},{"Hora":"16:00"}]}
+	]
+	}
+	],
+	[
+	{"nombreDestino":"Quevedo","valor":4,
+	"Cooperativa":[
+	{"nombreCooperativa":"La Mana","Horario":[{"Hora":"7:30"},{"Hora":"10:30"},{"Hora":"13:00"},{"Hora":"17:30"}]},
+	{"nombreCooperativa":"Valencia","Horario":[{"Hora":"6:30"},{"Hora":"12:40"},{"Hora":"14:30"},{"Hora":"18:40"}]},
+	{"nombreCooperativa":"Tia S.A","Horario":[{"Hora":"6:40"},{"Hora":"9:30"},{"Hora":"16:00"},{"Hora":"19:45"}]},
+	{"nombreCooperativa":"Sucre","Horario":[{"Hora":"05:15"},{"Hora":"11:45"},{"Hora":"18:30"},{"Hora":"21:00"}]}
+	]
+	}
+	],
+	[
+	{"nombreDestino":"Vinces","valor":3,
+	"Cooperativa":[
+	{"nombreCooperativa":"FIFA","Horario":[{"Hora":"5:30"},{"Hora":"10:30"},{"Hora":"17:00"},{"Hora":"21:30"}]},
+	{"nombreCooperativa":"Salitre","Horario":[{"Hora":"6:30"},{"Hora":"11:40"},{"Hora":"15:30"},{"Hora":"18:40"}]},
+	{"nombreCooperativa":"Rutas Vinceñas","Horario":[{"Hora":"9:40"},{"Hora":"12:30"},{"Hora":"17:00"},{"Hora":"19:00"}]}
+	]
+	}
+	]
+	
+
+}

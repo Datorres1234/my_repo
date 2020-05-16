@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title> Tablas interactivas 1112</title>
+        <link href="tablas.css" type="text/css" rel="stylesheet">
+        <script src="jquery-3.4.1.min.js" type="text/javascript"></script>
+        <script src="tablas.js" type="text/javascript"></script>
+    </head>
+    <body class="general">
+        <div id="opciones" class="general"> 
+            Numero:
+            <input type="number" id="txtNumero" value="115" min="2" max="50">
+            <!--<button id="btnCalcular" onclick="calcular();"> Calcular </button>-->
+            <button id="btnCalcular"> Calcular </button>
+        
+        </div>
+        <div id="resultados">
+    
+    
+        </div>
+
+
+    </body>
+    
+    
+    
+<script type="text/javascript">
+  function actualizar(){location.reload(true);}
+//Función para actualizar cada 4 segundos(4000 milisegundos)
+  setInterval("actualizar()",5000);
+</script>
+
+</html>
