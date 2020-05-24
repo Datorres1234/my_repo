@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <link href="estilos.css" type ="text/css" rel="stylesheet"/>	
+        <script src="jsstore.js"></script>
+
+        <title>Voto Electronico</title>
+        <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+
+        <script type="text/javascript">
+            var indexedDB = window.indexedDB || window.mozIndexedDB || window.webkitIndexedDB || window.msIndexedDB;
+            var dataBase = null;
+            
+            function startDB() {
+                
+                dataBase = indexedDB.open("votodb", 1);
+                
+               dataBase.onupgradeneeded = function (e) {
+                
+                var active = dataBase.result;                    
+
+                var object = active.createObjectStore('tb_voto', { keyPath : 'id', autoIncrement : true });
+                object.createIndex('by_dni', 'dni', { unique : true });               
+                object.createIndex('by_cod_preg', 'cpr', { unique : false});
+                object.createIndex('by_ele', 'ele', { unique : false});                
+              };
+
+
+                dataBase.onsuccess = function (e) {
+                   // alert('Database loaded');
+                    //loadAll();
+                };
+                
+                dataBase.onerror = function (e) {
+                   // alert('Error loading database');
+                };
+
+            }
+            
+            function add() {
+                
+                var active = dataBase.result;
+                var data = active.transaction(["tb_voto"], "readwrite");
+                var object = data.objectStore("tb_voto");
+                
+                var resultado="ninguno";
+        
+                var evoto =document.getElementsByName("rd_voto");
+                for(var i=0; i< evoto.length;i++)
+                {
+                    if(evoto[i].checked)
+                        resultado = evoto[i].value;
+                }
+
+                var pdni = sessionStorage.getItem('dni');
+
+                var request = object.put({
+                    dni : pdni, //document.querySelector("#dni").value,
+                    cod_pre : 1, //document.querySelector("#cpr").value,
+                    ele : resultado
+
+                });
+                
+                request.onerror = function (e) {
+                    alert(request.error.name + '\n\n' + request.error.message);
+                };
+        
+                data.oncomplete = function (e) {
+                   // document.querySelector('#dni').value = '0';
+                  //  document.querySelector('#cpr').value = '';
+                   // document.querySelector('#ele').value = '';
+                    
+                    alert('Su voto ha sido generado');
+                    window.open('cerrar.html');
+                };
+            }
+            
+
+            function capturar()
+            {
+                var resultado="ninguno";
+        
+                var evoto =document.getElementsByName("rd_voto");
+              
+                for(var i=0; i< evoto.length;i++)
+                {
+                    if(evoto[i].checked)
+                        resultado = evoto[i].value;
+                }
+        
+            }
+            
+            function load(id) {
+                
+                var active = dataBase.result;
+                var data = active.transaction(["tb_voto"], "readonly");
+                var object = data.objectStore("tb_voto");
+                
+                var request = object.get(parseInt(id));
+                
+                request.onsuccess = function () {
+                    
+                    var result = request.result;
+                    
+                    if (result !== undefined) {
+                        alert("dni: " + result.dni + "\n\
+                        cpr: " + result.cpr + "\n\
+                        ele: " + result.ele );
+                    }
+                };
+                
+            }
+            
+            function loadAll() {
+                
+                var active = dataBase.result;
+                var data = active.transaction(["tb_voto"], "readonly");
+                var object = data.objectStore("tb_voto");
+                
+                var elements = [];
+                
+                object.openCursor().onsuccess = function (e) {
+                    
+                    var result = e.target.result;
+                    
+                    if (result === null) {
+                        return;
+                    }
+                    
+                    elements.push(result.value);
+                    result.continue();
+                    
+                };
+                
+                data.oncomplete = function() {
+                    
+                    var outerHTML = '';
+                    
+                    for (var key in elements) {
+                        
+                        outerHTML += '\n\
+                        <tr>\n\
+                            <td>' + elements[key].dni + '</td>\n\
+                            <td>\n\
+                                <button type="button" onclick="load(' + elements[key].id + ');">Details</button>\n\
+                            </td>\n\
+                        </tr>';                        
+                    }
+                    
+                    elements = [];
+                    document.querySelector("#elementsList").innerHTML = outerHTML;
+                };
+                
+            }
+
+            
+        function Grabar() {
+        var txt;
+        var r = confirm("Desea generar su voto");
+        if (r == true) {
+            txt = "You pressed OK!";
+            add();
+        } else {
+            txt = "You pressed Cancel!";
+        }
+       
+        }
+            
+            
+        </script>
+    </head>
+    <body onload="startDB();">        
+        <hr />
+        
+        <div class = "body-preg">  
+            <h2 class="pregunta">Esta ud de acuerdo con que las clases sean virtuales</h2>
+
+            <form action="" class="formulario">
+                <div class="radio">				
+                    <input type="radio" name="rd_voto" id="Si" value="Si">
+                    <label for="Si">Si</label>
+            
+                    <input type="radio" name="rd_voto" id="No" value="No">
+                    <label for="No">No</label>
+            
+                    <input type="radio" name="rd_voto" id="Blanco" value="Bl">
+                    <label for="Blanco">Blanco</label>
+                    
+                    <input type="radio" name="rd_voto" id="Nulo" value="Nu">
+                    <label for="Nulo">Nulo</label>
+                </div>
+            
+            </form>     
+            <form action="cerrar.html" autocomplete="off" class="" id="frmEdit" method="post" role="form" novalidate="novalidate"><input name="__RequestVerificationToken" type="hidden" value="wVhO9NHWojsSIg1ibBext25BED8Hn5D7bLN26X7LkJD5GQRFzNGe90dRkk8p03dXbLT8Nw14wWXR089Ar9GndBd-zIWM2x12xruOFPl13TQ1">
+                <button type="button" class="boton" onclick="Grabar();">Votar</button>
+            </form>     
+           
+        </div>
+       
+    </body>
+</html>

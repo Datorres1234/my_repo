@@ -1,0 +1,321 @@
+   .campo {
+    background-color: cornsilk;
+    PADDING-RIGHT: 4px;
+    FONT-SIZE: 12px;   
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    WHITE-SPACE: nowrap;
+    HEIGHT: 30px;
+    PADDING-LEFT: 6px;
+    align-content: center;   
+    vertical-align: middle;
+    border-radius: 2px 2px 5px 5px;
+}
+
+   .titCampo {
+    PADDING-LEFT: 6px;
+    FONT-WEIGHT: bold;
+    COLOR:black;
+    FONT-SIZE: 10px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    HEIGHT: 20px;
+    text-align: left;
+    /* BACKGROUND-COLOR: rgb(47, 141, 212); */
+    WHITE-SPACE: nowrap;
+}
+
+label{
+    display: inline-block;
+    width: 80px;
+  }
+
+
+.titulo{
+    font-family: verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #f5ce34;
+    text-align:center;
+    padding:8px;
+    width: 800px;
+    margin: auto; 
+    font: normal normal bold 35px arial;
+  }
+
+.titulo2{
+    font-family: verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: #f5ce34;
+    text-align:center;
+    padding:8px;
+    width: 500px;
+    margin: auto; 
+  }
+
+.titulo3{
+    font-family: verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: midnightblue;
+    text-align:center;
+    padding:8px;
+    width: 500px;
+    margin: auto; 
+    font: normal normal bold 90px arial;
+  }
+
+  .info-panel-body{
+    margin: 40px;
+  }
+
+  .bloque_info{
+    font-family: verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    float: left;
+    position: relative;
+    margin: 40px;
+    background: midnightblue; 
+    height: 320px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    
+    vertical-align: middle;
+  }
+
+
+  .bloque_login{
+    font-family: verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    float: left;
+    width: 500px;
+   /* margin: 40px;*/
+    height: 600px;
+  }
+
+  .body-content{
+      color: white;
+      overflow: hidden;
+      background-color: #014171;
+      height: 610px;
+  }
+
+.bloque_principal{
+    background-color: #014171;
+}
+
+  .page-footer{
+    color: white;
+    overflow: hidden;
+    background-color: #014171;
+  }
+
+  .separador{
+    text-align:center;
+  }
+
+.general{    
+    font-family: verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    background-color:#C5DFF3;
+    text-align:center;
+    border:3px dotted rgb(47, 141, 212); 
+    padding:8px;
+    width: 500px;
+    margin: auto;
+}
+
+.borde_tabla {    
+    height: 600px;
+    
+    background-color: #C5DFF3;
+    border: 3px solid   rgb(47, 141, 212);
+    margin:auto;
+}
+
+.detalle {    
+    font-family: verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium; 
+    
+}
+.boton {
+    border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+    padding: 10px; /*espacio alrededor texto*/
+    background-color: #2e518b; /*color botón*/
+    color: #ffffff; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    text-transform: uppercase; /*capitalización texto*/
+    font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+    border-radius: 50px; /*bordes redondos*/
+    }
+
+    
+
+    
+
+.buttonVo {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px 5px;
+    border: 0px solid #ced114;
+    border-radius: 17px;
+    background: #f8fd27;
+    background: -webkit-gradient(linear, left top, left bottom, from(#f8fd27), to(#dce000));
+    background: -moz-linear-gradient(top, #f8fd27, #dce000);
+    background: linear-gradient(to bottom, #f8fd27, #dce000);
+    -webkit-box-shadow: #ffff2f 0px 0px 0px 0px;
+    -moz-box-shadow: #ffff2f 0px 0px 0px 0px;
+    box-shadow: #ffff2f 0px 0px 0px 0px;
+    text-shadow: #ffff33 1px 1px 1px;
+    font: normal normal bold 20px arial;
+    color: #310da8;
+    text-decoration: none;
+}
+.button:hover,
+.button:focus {
+    border: 0px solid #edf017;
+    background: #ffff2f;
+    background: -webkit-gradient(linear, left top, left bottom, from(#ffff2f), to(#ffff00));
+    background: -moz-linear-gradient(top, #ffff2f, #ffff00);
+    background: linear-gradient(to bottom, #ffff2f, #ffff00);
+    color: #310da8;
+    text-decoration: none;
+}
+.button:active {
+    background: #aeb11b;
+    background: -webkit-gradient(linear, left top, left bottom, from(#aeb11b), to(#dce000));
+    background: -moz-linear-gradient(top, #aeb11b, #dce000);
+    background: linear-gradient(to bottom, #aeb11b, #dce000);
+}
+.button:before{
+    content:  "\0000a0";
+    display: inline-block;
+    height: 24px;
+    width: 24px;
+    line-height: 24px;
+    margin: 0 4px -6px -4px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADTElEQVRIic2VTWhcVRTHf+ee+2YmmZlkJg1NnWcanAYTLLgoUgMV68p9QQwIgqIrXQiCXdQKFRdV1IqLbCRmEaotbiJUSTSNH11omtqKYkpJatOB1MaEjCGTaZrOzHsuJubNpEkm+AEeODx499z/751zz7kP/mOTrRYffGi//0/Ef/5hTGytoNP9fdy8OcPc3Ayzs3Ncz2T4I5sF4ODBxzh27HWWnfmqPTvbY8jcbgBqAlzXJZFI0Nrqks/fYt++Jaanp7l06Ufi8Tie522539QCbGTJZBNdXV00NDQSidT9+wCAaDRKKnUPrpv6+4DWfKkmKJ1Oo1ZRR7GOxToW1UB2S8Chq78wcvR4zTqrGqy1qFWso5jtAtTzSPX28O2LhykWCpvHWcU6Bmc1C1XdHgDg4Qc62T98hgvPvMBKfnnt/cmTH5FIJNcAai02VPbKDCxAvzq5UKkQWy8eKhXA82jfkyb20wW+ePo5Uu+/A+Fyd3d0dNLd/SShekWtYoxBRHDCynIlQHzfdu/dC7ZiLIwBz4OZGZidZVc6zaFrVxl49nmKrx1lYOBTzp//nhMn3sOJ2HLtDSCCOsEFESgWi/jj42x2nGZykoa2Np7KZPjk1SN88Na7a2uRmMVaRYwBARsOAEGxlpZYABaA7KovVHgWmM9kcFyXx/M5iq+8zK2FXFlEDUa13E1aLtXdGSwukgWKm2QA0CFC4cYNztZHkTfepD4RB0CtYOwqyIAJmqgCcPs2e6LRu0Rz+Ty/Ae1Azvc5E4sjx99m5/1tQRlCoLbsRgUNrQP4IsVThaJHofr7HTBPiJD2fWaBkXiCxp4ewi1NABVtSjkDC6qCUb8acC796A42mIkD184tr5QKTIvhu+QO3L4+ws0NJJNNrKzcYWhokFwuhzQajAlcZB2gd3LkzkY1P6AOl8Uw3pKi8/TH7Eq3kcstMjo6ysTEJBfnP8dLFHGc8jWhahAjiPGqAZuZD1zefR+PDA1ScoSxsTGmpqY4O9WP53vYOsVoJBAWQQSQbQKuNKd46ZsRJq7/yvBXw1zMfoYYwYYUow6mQhgq/r9+cMpbAr68twV3cICvf+8FA3XNf+VVPY7+umfZorUBnsCHfafWgv+X9ie6CflHyA3wTAAAAABJRU5ErkJggg==") no-repeat left center transparent;
+    background-size: 100% 100%;
+}
+
+
+
+/* ----- ----- voto ----- ----- */
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0; }
+  
+.pregunta{
+    font-family: verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: midnightblue;
+    text-align:center;
+    font: normal normal bold 50px arial;
+    width: 800px;
+}
+
+  body {
+    font-size: 20px;
+    background: white;
+    font-family: "Roboto"; }
+  
+.body-preg{
+    font-family: verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    float: left;
+    position: relative;
+    margin: 80px;
+    /*background: midnightblue; */
+    height: 320px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    vertical-align: middle;
+}
+
+  a {
+    color: #FF4136; }
+  
+  .wrap {
+    width: 90%;
+    max-width: 1000px;
+    margin: auto; }
+  
+  .info {
+    text-align: center;
+    padding: 20px;
+    color: #1625ad;
+    border-bottom: 1px solid #ccc; }
+    .info p {
+      margin-top: 20px; }
+  
+    .formulario h2 {
+      font-size: 16px;
+      color: #1625ad;
+      margin-bottom: 20px;
+      margin-left: 20px; }
+    .formulario > div {
+      padding: 40px 0;
+      border-bottom: 1px solid #ccc; }
+    .formulario .radio label,
+    .formulario .checkbox label {
+      display: inline-block;
+      cursor: pointer;
+      color: #1625ad;
+      position: relative;
+      padding: 10px 90px 15px 65px;
+      font-size: 1em;
+      border-radius: 5px;
+      padding-left: 48px;
+      -webkit-transition: all 0.3s ease;
+      -o-transition: all 0.3s ease;
+      transition: all 0.3s ease; }
+      .formulario .radio label:hover,
+      .formulario .checkbox label:hover {
+        background: rgba(255, 65, 54, 0.1); }
+      .formulario .radio label:before,
+      .formulario .checkbox label:before {
+        content: "";
+        display: inline-block;
+        width: 25px;
+        height: 25px;
+        position: absolute;
+        left: 15px;
+        border-radius: 70%;
+        background: none;
+        border: 3px solid #0f1a77; }
+    .formulario input[type="radio"] {
+      display: none; }
+      .formulario input[type="radio"]:checked + label:before {
+        display: none; }
+      .formulario input[type="radio"]:checked + label {
+        padding: 5px 15px;
+        background: #1625ad;
+        border-radius: 2px;
+        color: #fff; }
+    .formulario .checkbox label:before {
+      border-radius: 3px; }
+    .formulario .checkbox input[type="checkbox"] {
+      display: none; }
+      .formulario .checkbox input[type="checkbox"]:checked + label:before {
+        display: none; }
+      .formulario .checkbox input[type="checkbox"]:checked + label {
+        background: #1625ad;
+        color: #fff;
+        padding: 5px 15px; }
+  
+  /*# sourceMappingURL=estilos.css.map */
+  

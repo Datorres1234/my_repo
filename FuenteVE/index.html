@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>IndexedDB: Local Database with HTML5</title>
+        <script type="text/javascript">
+            var indexedDB = window.indexedDB || window.mozIndexedDB || window.webkitIndexedDB || window.msIndexedDB;
+            var dataBase = null;
+            
+            function startDB() {
+                
+                dataBase = indexedDB.open("cnepdb", 1);
+                
+
+               dataBase.onupgradeneeded = function (e) {
+                
+                var active = dataBase.result;                    
+                var object = active.createObjectStore('tb_votante', { keyPath : 'id', autoIncrement : true });
+                object.createIndex('by_dni', 'dni', { unique : false });               
+                object.createIndex('by_pin', 'pin', { unique : true});
+                object.createIndex('by_psw', 'psw', { unique : true});
+                object.createIndex('by_con', ['by_dni','by_pin','by_psw'], {unique:true});
+                
+              };
+
+
+                dataBase.onsuccess = function (e) {
+                    alert('Database loaded');
+                    loadAll();
+                };
+                
+                dataBase.onerror = function (e) {
+                    alert('Error loading database');
+                };
+
+            }
+            
+            function add() {
+                
+                var active = dataBase.result;
+                var data = active.transaction(["tb_votante"], "readwrite");
+                var object = data.objectStore("tb_votante");
+                
+                var request = object.put({
+                    dni : document.querySelector("#dni").value,
+                    pin : document.querySelector("#pin").value,
+                    psw : document.querySelector("#psw").value
+
+                });
+                
+                request.onerror = function (e) {
+                    alert(request.error.name + '\n\n' + request.error.message);
+                };
+        
+                data.oncomplete = function (e) {
+                    document.querySelector('#dni').value = '';
+                    document.querySelector('#pin').value = '';
+                    document.querySelector('#psw').value = '';
+                    
+                    alert('Object successfully added');
+                    loadAll();
+                };
+            }
+            
+            function load(id) {
+                
+                var active = dataBase.result;
+                var data = active.transaction(["tb_votante"], "readonly");
+                var object = data.objectStore("tb_votante");
+                
+                var request = object.get(parseInt(id));
+                
+                request.onsuccess = function () {
+                    
+                    var result = request.result;
+                    
+                    if (result !== undefined) {
+                        alert("ID: " + result.id + "\n\
+                        DNI: " + result.dni + "\n\
+                        pin: " + result.pin + "\n\
+                        psw: " + result.psw );
+                    }
+                };         
+            }
+            
+            function loadByDni(dni) {
+                
+                var active = dataBase.result;
+                var data = active.transaction(["tb_votante"], "readonly");
+                var object = data.objectStore("tb_votante");
+                var index = object.index("by_dni");                
+
+                var request = index.get(String(dni));
+                
+                request.onsuccess = function () {
+                    
+                    var result = request.result;
+                    
+                    if (result !== undefined) {
+                        alert("ID: " + result.id + "\n\
+                        DNI: " + result.dni + "\n\
+                        pin: " + result.pin + "\n\
+                        psw: " + result.psw
+                        );
+                    }
+                };
+                
+            }
+
+            function pruebadni(dni){
+                var db = dataBase.result;
+                var transaction = db.transaction('tb_votante','readonly');
+                var store = transaction.objectStore('tb_votante');
+                var index = store.index('by_con');
+
+                var request = index.openCursor(IDBKeyRange.only(['0922512736', '111111','1111']));
+                var request = index.get(IDBKeyRange.only(['0922512736', '111111','1111']));
+
+            }
+            
+            function loadAll() {
+                
+                var active = dataBase.result;
+                var data = active.transaction(["tb_votante"], "readonly");
+                var object = data.objectStore("tb_votante");
+                
+                var elements = [];
+                
+                object.openCursor().onsuccess = function (e) {
+                    
+                    var result = e.target.result;
+                    
+                    if (result === null) {
+                        return;
+                    }
+                    
+                    elements.push(result.value);
+                    result.continue();
+                    
+                };
+                
+                data.oncomplete = function() {
+                    
+                    var outerHTML = '';
+                    
+                    for (var key in elements) {
+                        
+                        outerHTML += '\n\
+                        <tr>\n\
+                            <td>' + elements[key].dni + '</td>\n\
+                            <td>' + elements[key].pin + '</td>\n\
+                            <td>\n\
+                                <button type="button" onclick="load(' + elements[key].id + ');">Details</button>\n\
+                                <button type="button" onclick="pruebadni(' + elements[key].dni + ');">Details DNI</button>\n\
+                            </td>\n\
+                        </tr>';                        
+                    }
+                    
+                    elements = [];
+                    document.querySelector("#elementsList").innerHTML = outerHTML;
+                };
+                
+            }
+            
+            function loadAllByName() {
+                
+                var active = dataBase.result;
+                var data = active.transaction(["tb_votante"], "readonly");
+                var object = data.objectStore("tb_votante");
+                var index = object.index('by_ele');
+                
+                var elements = [];
+                
+                index.openCursor().onsuccess = function (e) {
+                    
+                    var result = e.target.result;
+                    
+                    if (result === null) {
+                        return;
+                    }
+                    
+                    elements.push(result.value);
+                    result.continue();
+                    
+                };
+                
+                data.oncomplete = function() {
+                    
+                    var outerHTML = '';
+                    
+                    for (var key in elements) {
+                        
+                        outerHTML += '\n\
+                        <tr>\n\
+                            <td>' + elements[key].dni + '</td>\n\
+                            <td>\n\
+                                <button type="button" onclick="load(' + elements[key].id + ');">Details</button>\n\
+                            </td>\n\
+                        </tr>';                        
+                    }
+                    
+                    elements = [];
+                    document.querySelector("#elementsList").innerHTML = outerHTML;
+                };
+                
+            }
+
+        </script>
+    </head>
+    <body onload="startDB();">
+        <input type="text" id="dni" placeholder="Enter dni" />
+        <input type="text" id="pin" placeholder="Enter pin" />
+        <input type="text" id="psw" placeholder="Enter psw" />
+        
+        <button type="button" onclick="add();">Save</button>
+        <hr />
+        <div id="elements">
+            <table>
+                <caption>Persons</caption>
+                <thead>
+                    <tr>
+                        <th>DNI</th>
+                        <th>pin</th>
+                        <th>psw</th>
+                        <th> </th>
+                    </tr>
+                </thead>
+                <tbody id="elementsList">
+                    <tr>
+                        <td colspan="3">Not elements to show</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>

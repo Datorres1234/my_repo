@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <title>Log in Voto Electrónico</title>    
+    <script src="jquery-3.4.1.min.js" type="text/javascript"></script> 
+    <link href="estilos.css" type ="text/css" rel="stylesheet"/>	
+    <script src="voto.js" type="text/javascript"></script>
+
+</head>
+
+<script type="text/javascript">
+    var indexedDB = window.indexedDB || window.mozIndexedDB || window.webkitIndexedDB || window.msIndexedDB;
+    var dataBase = null;
+    
+    function startDB() {
+        
+        dataBase = indexedDB.open("cnedb", 1);
+        
+        dataBase.onsuccess = function (e) {
+            //alert('Database loaded');
+            //loadAll();
+        };
+        
+        dataBase.onerror = function (e) {
+          //  alert('Error loading database');
+        };
+
+    }
+   
+</script>
+
+
+<body onload="startDB();">
+    
+    <div class="container body-content">
+
+    <div class="page-container-inner clearfix">
+    
+    <br>
+    <br>
+    
+    <h2 class="titulo">BIENVENIDO AL SISTEMA DE VOTO ELECTRONICO</h2>
+    
+    <br>
+    <br>
+    
+    <div class="row">
+    <div class="col-md-10 col-md-offset-1  bloque_principal">
+        <div class="row">
+            <div class="col-md-5">
+                <div class="bloque_info" >
+    
+                    <div class="row info-panel-heading">
+                        <div class="col-md-3 col-sm-3 col-xs-2 fa-stack fa-2x">
+                            <i class="fa fa-square-o fa-stack-2x"></i>
+                            <i class="fa fa-info fa-stack-1x"></i>
+                            <h3 class="titulo2">Información Importante</h3>
+                        </div>
+    
+                    </div>
+    
+                    <br>
+                    <div class="row info-panel-body">
+                        <p>Para registrar su voto usted debe:</p>
+    
+                        <ul class="fa-ul">
+                            <li><i class="fa-li fa fa-check"></i>Ser estudiante de la ESPOL en cualquiera de sus modalidades.</li>
+                            <li><i class="fa-li fa fa-check"></i>Estar matriculado en el actual período académico.</li>
+                            <li><i class="fa-li fa fa-check"></i>Ingresar al sistema con su usuario y contraseña.</li>
+                            <li><i class="fa-li fa fa-check"></i>Podra votar una sola vez.</li>
+                        </ul>
+    
+                    </div>
+    
+                </div>
+    
+            </div>
+
+    <div class="col-md-7">
+        <div class="bloque_login" style="text-align: center;">
+
+        <div class="login-panel">
+            <div class="login-panel-heading">
+                <h3>Ingresar al Sistema</h3>
+            </div>
+            <br>
+    
+       <div class="login-panel-body">
+    
+          <section id="loginForm">
+             <form action="voto.html" autocomplete="off" class="" id="frmEdit" method="post" role="form" novalidate="novalidate"><input name="__RequestVerificationToken" type="hidden" value="wVhO9NHWojsSIg1ibBext25BED8Hn5D7bLN26X7LkJD5GQRFzNGe90dRkk8p03dXbLT8Nw14wWXR089Ar9GndBd-zIWM2x12xruOFPl13TQ1">                                    
+                <fieldset>
+    
+                <div class="form-group label-floating is-empty">
+                    <label class="control-label" for="Cedula">Cedula</label>
+                    <div class="input-group">
+                        <input class="form-control campo" data-val="true" maxlength="10"  id="txtcedula" type="text"  onkeypress="if ( isNaN( String.fromCharCode(event.keyCode) )) return false;"  value="">
+                        <span class="input-group-addon"><i class="fa fa-user fa-2x" aria-hidden="true"></i></span>
+                    </div>
+                    <span class="field-validation-valid text-danger" data-valmsg-for="Usuario" data-valmsg-replace="true"></span>
+    
+                </div>
+                <br>
+    
+                <div class="form-group label-floating is-empty">
+                    <label class="control-label" for="pin">Pin</label>
+                    <div class="input-group">
+                        <input class="form-control campo" data-val="true"  maxlength="6"  type="password" onkeypress="if ( isNaN( String.fromCharCode(event.keyCode) )) return false;" id="txtpin" type="text" value="">
+                        <span class="input-group-addon"><i class="fa fa-lock fa-2x" aria-hidden="true"></i></span>
+                    </div>
+                    <span class="field-validation-valid text-danger" data-valmsg-for="Password" data-valmsg-replace="true"></span>
+    
+                </div>
+                <br>
+                            
+                <div class="form-group label-floating is-empty">
+                    <label class="control-label" for="Password">Contraseña</label>
+    
+                    <div class="input-group">
+                        <input autocomplete="off" class="form-control campo" id="clave"  type="password">
+                        <span class="input-group-addon"><i class="fa fa-lock fa-2x" aria-hidden="true"></i></span>
+                    </div>
+    
+                    <span class="field-validation-valid text-danger" data-valmsg-for="Password" data-valmsg-replace="true"></span>
+    
+                </div>
+    <br>
+    
+                <div class="form-group pull-right">
+                    <div>
+    
+                        <button class="btn btn-primary buttonVo" type="submit" id="create"  onclick="Validaciones()"  style="display: block; margin: 0 auto;">
+                            <i class="fa  fa-sign-in"></i>
+                            INGRESO
+                        </button>
+                    </div>
+                </div>
+    
+            </fieldset>
+           </form>                            
+        </section>
+     </div>
+  </div>
+    
+    
+                </div>
+            </div>
+    
+        </div>
+    </div>
+    </div>        
+      
+    
+    </div>
+    
+    </div>
+    
+    <footer class="page-footer" style="text-align: center;">
+    
+        <div class="container">
+            <div class="page-footer-inner clearfix">                
+                <div class="row ">    
+                    <div class="copyright col-md-6 col-sm-4 text-center">
+                        <p>Guayaquil - Ecuador&nbsp;</p>
+                        <span>Domingo, 24 de mayo de 2020</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    
+</body>
+</html>
